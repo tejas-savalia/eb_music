@@ -1,0 +1,14 @@
+name: eb_music
+channels:
+  - defaults
+dependencies:
+  - scikit-learn
+  - pandas
+  - numpy==1.25.2
+  - seaborn
+  - matplotlib
+  - bambi
+  - pymc
+  - scipy
+  - jupyter
+prefix: C:\Users\tejas\Anaconda3\envs\eb_music
