@@ -1,0 +1,2006 @@
+13.4455 	WARNING 	User requested fullscreen with size [1440  900], but screen is actually [1920, 1080]. Using actual size
+14.0143 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000000002D225C40>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000000002D225BE0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000000002D225A00>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000000002D5DCA30>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+14.0144 	EXP 	window1: mouseVisible = True
+14.0144 	EXP 	window1: backgroundImage = ''
+14.0144 	EXP 	window1: backgroundFit = 'none'
+14.0166 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+14.0166 	EXP 	window1: recordFrameIntervals = False
+14.0974 	EXP 	window1: recordFrameIntervals = True
+14.1891 	EXP 	Screen (0) actual frame rate measured at 119.96Hz
+14.1892 	EXP 	window1: recordFrameIntervals = False
+14.1892 	EXP 	window1: mouseVisible = False
+16.2949 	EXP 	eb_music: status = STARTED
+16.3473 	EXP 	window1: mouseVisible = True
+16.4291 	EXP 	Created welcome_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='welcome_text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+16.4293 	EXP 	window1: mouseVisible = True
+16.5471 	EXP 	Created consent_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.015, italic=False, languageStyle='LTR', name='consent_text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1.25)
+16.5474 	EXP 	window1: mouseVisible = True
+16.5476 	EXP 	window1: mouseVisible = True
+16.5483 	EXP 	window1: mouseVisible = True
+16.5490 	EXP 	window1: mouseVisible = True
+16.5721 	EXP 	window1: mouseVisible = True
+16.5722 	EXP 	window1: mouseVisible = True
+16.5729 	EXP 	window1: mouseVisible = True
+16.5736 	EXP 	window1: mouseVisible = True
+16.5985 	EXP 	window1: mouseVisible = True
+16.5989 	EXP 	window1: mouseVisible = True
+16.5990 	EXP 	window1: mouseVisible = True
+16.5998 	EXP 	window1: mouseVisible = True
+16.6004 	EXP 	window1: mouseVisible = True
+16.6271 	EXP 	window1: mouseVisible = True
+16.6273 	EXP 	window1: mouseVisible = True
+16.6280 	EXP 	window1: mouseVisible = True
+16.6287 	EXP 	window1: mouseVisible = True
+16.6336 	EXP 	window1: mouseVisible = True
+16.6404 	EXP 	window1: mouseVisible = True
+16.6409 	EXP 	window1: mouseVisible = True
+16.6525 	EXP 	window1: mouseVisible = True
+16.6526 	EXP 	window1: mouseVisible = True
+16.6533 	EXP 	window1: mouseVisible = True
+16.6541 	EXP 	window1: mouseVisible = True
+16.6726 	EXP 	window1: mouseVisible = True
+16.6728 	EXP 	window1: mouseVisible = True
+16.6735 	EXP 	window1: mouseVisible = True
+16.6742 	EXP 	window1: mouseVisible = True
+16.6792 	EXP 	window1: mouseVisible = True
+16.6793 	EXP 	window1: mouseVisible = True
+16.6800 	EXP 	window1: mouseVisible = True
+16.6807 	EXP 	window1: mouseVisible = True
+16.6899 	EXP 	window1: mouseVisible = True
+16.6901 	EXP 	window1: mouseVisible = True
+16.6908 	EXP 	window1: mouseVisible = True
+16.6914 	EXP 	window1: mouseVisible = True
+16.6964 	EXP 	window1: mouseVisible = True
+16.6966 	EXP 	window1: mouseVisible = True
+16.6973 	EXP 	window1: mouseVisible = True
+16.6980 	EXP 	window1: mouseVisible = True
+16.7100 	EXP 	window1: mouseVisible = True
+16.7101 	EXP 	window1: mouseVisible = True
+16.7108 	EXP 	window1: mouseVisible = True
+16.7115 	EXP 	window1: mouseVisible = True
+16.7166 	EXP 	window1: mouseVisible = True
+16.7167 	EXP 	window1: mouseVisible = True
+16.7174 	EXP 	window1: mouseVisible = True
+16.7181 	EXP 	window1: mouseVisible = True
+16.7308 	EXP 	window1: mouseVisible = True
+16.7309 	EXP 	window1: mouseVisible = True
+16.7316 	EXP 	window1: mouseVisible = True
+16.7323 	EXP 	window1: mouseVisible = True
+16.7374 	EXP 	window1: mouseVisible = True
+16.7543 	EXP 	window1: mouseVisible = True
+16.8295 	EXP 	Created age_slider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=0, fillColor=None, flip=False, font='Open Sans', granularity=1.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=('18-20', '21-24', '25-30', 'above 30'), lineColor=None, markerColor=None, name='age_slider', opacity=None, ori=0.0, pos=array([0.1, 0.3]), readOnly=False, self=UNKNOWN, size=array([0.8 , 0.05]), startValue=None, style='radio', styleTweaks=[], ticks=array([0, 1, 2, 3]), units='height', win=Window(...))
+16.8298 	EXP 	window1: mouseVisible = True
+16.8300 	EXP 	window1: mouseVisible = True
+16.8306 	EXP 	window1: mouseVisible = True
+16.8313 	EXP 	window1: mouseVisible = True
+16.8362 	EXP 	window1: mouseVisible = True
+16.8363 	EXP 	window1: mouseVisible = True
+16.8370 	EXP 	window1: mouseVisible = True
+16.8377 	EXP 	window1: mouseVisible = True
+16.8767 	EXP 	window1: mouseVisible = True
+16.8773 	EXP 	window1: mouseVisible = True
+16.8831 	EXP 	window1: mouseVisible = True
+16.8832 	EXP 	window1: mouseVisible = True
+16.8839 	EXP 	window1: mouseVisible = True
+16.8846 	EXP 	window1: mouseVisible = True
+16.9002 	EXP 	window1: mouseVisible = True
+16.9003 	EXP 	window1: mouseVisible = True
+16.9011 	EXP 	window1: mouseVisible = True
+16.9017 	EXP 	window1: mouseVisible = True
+16.9063 	EXP 	window1: mouseVisible = True
+16.9064 	EXP 	window1: mouseVisible = True
+16.9071 	EXP 	window1: mouseVisible = True
+16.9078 	EXP 	window1: mouseVisible = True
+16.9168 	EXP 	window1: mouseVisible = True
+16.9169 	EXP 	window1: mouseVisible = True
+16.9176 	EXP 	window1: mouseVisible = True
+16.9183 	EXP 	window1: mouseVisible = True
+16.9230 	EXP 	window1: mouseVisible = True
+16.9248 	EXP 	window1: mouseVisible = True
+16.9730 	EXP 	Created Handedness = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-2, fillColor=None, flip=False, font='Open Sans', granularity=1.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=('Left Handed', 'Right Handed'), lineColor=None, markerColor=None, name='Handedness', opacity=None, ori=0.0, pos=array([ 0.1, -0.1]), readOnly=False, self=UNKNOWN, size=array([0.8 , 0.05]), startValue=None, style='radio', styleTweaks=[], ticks=array([0, 1]), units='height', win=Window(...))
+16.9731 	EXP 	window1: mouseVisible = True
+16.9843 	EXP 	Created age_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='age_text', opacity=1.0, ori=0.0, pos=array([-0.55,  0.3 ]), rgb=UNKNOWN, text='Age Range \n(Optional)', units='height', win=Window(...), wrapWidth=1)
+16.9844 	EXP 	window1: mouseVisible = True
+16.9906 	EXP 	Created handedness_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='handedness_text', opacity=1.0, ori=0.0, pos=array([-0.55, -0.1 ]), rgb=UNKNOWN, text='Handedness\n(Required)', units='height', win=Window(...), wrapWidth=1)
+16.9907 	EXP 	window1: mouseVisible = True
+16.9952 	EXP 	Created gender_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='gender_text', opacity=1.0, ori=0.0, pos=array([-0.55,  0.1 ]), rgb=UNKNOWN, text='Gender\n(optional)', units='height', win=Window(...), wrapWidth=1)
+16.9952 	EXP 	window1: mouseVisible = True
+17.0146 	EXP 	Created instructions_text1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instructions_text1', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+17.0147 	EXP 	window1: mouseVisible = True
+17.0190 	EXP 	Created instr1_cnt_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instr1_cnt_text', opacity=1.0, ori=0.0, pos=array([ 0. , -0.4]), rgb=UNKNOWN, text='Hit the spacebar to continue', units='height', win=Window(...), wrapWidth=1)
+17.0191 	EXP 	window1: mouseVisible = True
+17.0274 	EXP 	Created instructions_text2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instructions_text2', opacity=1.0, ori=0.0, pos=array([0. , 0.2]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+17.0275 	EXP 	window1: mouseVisible = True
+17.0313 	EXP 	Created instr2_cnt_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instr2_cnt_text', opacity=1.0, ori=0.0, pos=array([ 0. , -0.4]), rgb=UNKNOWN, text='Hit the spacebar to continue', units='height', win=Window(...), wrapWidth=1)
+17.0314 	EXP 	window1: mouseVisible = True
+17.4953 	EXP 	Created key_stim_association = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, image='key_stim_association.png', interpolate=True, mask=None, maskParams=None, name='key_stim_association', opacity=1.0, ori=0.0, pos=array([ 0.   , -0.125]), size=array([0.5, 0.4]), texRes=128.0, units='height', win=Window(...))
+17.4955 	EXP 	window1: mouseVisible = True
+17.5188 	EXP 	Created instructions_text3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instructions_text3', opacity=1.0, ori=0.0, pos=array([0. , 0.1]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1.5)
+17.5189 	EXP 	window1: mouseVisible = True
+17.5231 	EXP 	Created instr3_cnt_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instr3_cnt_text', opacity=1.0, ori=0.0, pos=array([ 0. , -0.4]), rgb=UNKNOWN, text='Hit the correct keys to begin the study.', units='height', win=Window(...), wrapWidth=1)
+17.5232 	EXP 	window1: mouseVisible = True
+17.5961 	EXP 	Created examplestim_image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, image='example_stimulus.png', interpolate=True, mask=None, maskParams=None, name='examplestim_image_2', opacity=1.0, ori=0.0, pos=array([ 0.  , -0.25]), size=array([0.5 , 0.25]), texRes=128.0, units='height', win=Window(...))
+17.5963 	EXP 	window1: mouseVisible = True
+17.6041 	EXP 	Created instructions_text4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instructions_text4', opacity=1.0, ori=0.0, pos=array([0.  , 0.35]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1.25)
+17.6042 	EXP 	window1: mouseVisible = True
+17.6087 	EXP 	Created instr4_cnt_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instr4_cnt_text', opacity=1.0, ori=0.0, pos=array([ 0. , -0.4]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+17.6087 	EXP 	window1: mouseVisible = True
+18.8231 	EXP 	Created handplacement_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, image='hand_placement_created.png', interpolate=True, mask=None, maskParams=None, name='handplacement_image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.75, 0.5 ]), texRes=128.0, units='height', win=Window(...))
+18.9408 	EXP 	Sound sound_2 set volume 1.000
+18.9410 	EXP 	window1: mouseVisible = True
+18.9558 	EXP 	Created instructions_text5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='instructions_text5', opacity=1.0, ori=0.0, pos=array([0. , 0.1]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1.5)
+18.9559 	EXP 	window1: mouseVisible = True
+18.9604 	EXP 	Created instr5_cnt_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instr5_cnt_text', opacity=1.0, ori=0.0, pos=array([ 0. , -0.4]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+18.9604 	EXP 	window1: mouseVisible = True
+19.4101 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, image='key_stim_association.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0.  , 0.15]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+19.4103 	EXP 	window1: mouseVisible = True
+19.4120 	EXP 	Created volume_adjustment_instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='volume_adjustment_instructions', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+19.4526 	EXP 	Sound volume_adjuster_sound set volume 1.000
+19.4529 	EXP 	window1: mouseVisible = True
+19.4557 	EXP 	Created text_countdown_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_countdown_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+19.4558 	EXP 	window1: mouseVisible = True
+19.4581 	EXP 	Created space = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([0.3255, 0.3255, 0.3255]), fillColorSpace='rgb', fillRGB=array([0.3255, 0.3255, 0.3255]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=10.0, name='space', opacity=1.0, ori=0.0, pos=array([-0.3,  0. ]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...))
+19.4582 	EXP 	window1: mouseVisible = True
+19.4603 	EXP 	Created h = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([0.3255, 0.3255, 0.3255]), fillColorSpace='rgb', fillRGB=array([0.3255, 0.3255, 0.3255]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=10.0, name='h', opacity=1.0, ori=0.0, pos=array([-0.15,  0.  ]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...))
+19.4604 	EXP 	window1: mouseVisible = True
+19.4626 	EXP 	Created j = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-3.0, draggable=False, fillColor=array([0.3255, 0.3255, 0.3255]), fillColorSpace='rgb', fillRGB=array([0.3255, 0.3255, 0.3255]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=10.0, name='j', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...))
+19.4627 	EXP 	window1: mouseVisible = True
+19.4651 	EXP 	Created k = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-4.0, draggable=False, fillColor=array([0.3255, 0.3255, 0.3255]), fillColorSpace='rgb', fillRGB=array([0.3255, 0.3255, 0.3255]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=10.0, name='k', opacity=1.0, ori=0.0, pos=array([0.15, 0.  ]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...))
+19.4652 	EXP 	window1: mouseVisible = True
+19.4673 	EXP 	Created l = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-5.0, draggable=False, fillColor=array([0.3255, 0.3255, 0.3255]), fillColorSpace='rgb', fillRGB=array([0.3255, 0.3255, 0.3255]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=10.0, name='l', opacity=1.0, ori=0.0, pos=array([0.3, 0. ]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...))
+19.4674 	EXP 	window1: mouseVisible = True
+19.4689 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-7.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([ 0. , -0.2]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+19.4690 	EXP 	window1: mouseVisible = True
+19.4705 	EXP 	Created accuracy_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-8.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='accuracy_text', opacity=1.0, ori=0.0, pos=array([0.4, 0.4]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+19.4713 	EXP 	Sound sound_1 set volume 1.000
+19.4713 	EXP 	window1: mouseVisible = True
+19.4773 	EXP 	Created break_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='break_text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.4774 	EXP 	window1: mouseVisible = True
+19.4884 	EXP 	Created memory_text_instr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='memory_text_instr', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.4885 	EXP 	window1: mouseVisible = True
+19.4930 	EXP 	Created memory_test_cnt_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='memory_test_cnt_text', opacity=1.0, ori=0.0, pos=array([ 0. , -0.4]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.4931 	EXP 	window1: mouseVisible = True
+19.4946 	EXP 	Created text_countdown = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_countdown', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+19.4947 	EXP 	window1: mouseVisible = True
+19.4962 	EXP 	Created mem_space = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([0.3255, 0.3255, 0.3255]), fillColorSpace='rgb', fillRGB=array([0.3255, 0.3255, 0.3255]), interpolate=True, lineColor=array([0.3255, 0.3255, 0.3255]), lineColorSpace='rgb', lineRGB=array([0.3255, 0.3255, 0.3255]), lineWidth=10.0, name='mem_space', opacity=1.0, ori=0.0, pos=array([-0.3,  0. ]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...))
+19.4963 	EXP 	window1: mouseVisible = True
+19.4979 	EXP 	Created mem_h = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([0.3255, 0.3255, 0.3255]), fillColorSpace='rgb', fillRGB=array([0.3255, 0.3255, 0.3255]), interpolate=True, lineColor=array([0.3255, 0.3255, 0.3255]), lineColorSpace='rgb', lineRGB=array([0.3255, 0.3255, 0.3255]), lineWidth=10.0, name='mem_h', opacity=1.0, ori=0.0, pos=array([-0.15,  0.  ]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...))
+19.4980 	EXP 	window1: mouseVisible = True
+19.4994 	EXP 	Created mem_j = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([0.3255, 0.3255, 0.3255]), fillColorSpace='rgb', fillRGB=array([0.3255, 0.3255, 0.3255]), interpolate=True, lineColor=array([0.3255, 0.3255, 0.3255]), lineColorSpace='rgb', lineRGB=array([0.3255, 0.3255, 0.3255]), lineWidth=10.0, name='mem_j', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...))
+19.4995 	EXP 	window1: mouseVisible = True
+19.5010 	EXP 	Created mem_k = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-3.0, draggable=False, fillColor=array([0.3255, 0.3255, 0.3255]), fillColorSpace='rgb', fillRGB=array([0.3255, 0.3255, 0.3255]), interpolate=True, lineColor=array([0.3255, 0.3255, 0.3255]), lineColorSpace='rgb', lineRGB=array([0.3255, 0.3255, 0.3255]), lineWidth=10.0, name='mem_k', opacity=1.0, ori=0.0, pos=array([0.15, 0.  ]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...))
+19.5011 	EXP 	window1: mouseVisible = True
+19.5026 	EXP 	Created mem_l = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-4.0, draggable=False, fillColor=array([0.3255, 0.3255, 0.3255]), fillColorSpace='rgb', fillRGB=array([0.3255, 0.3255, 0.3255]), interpolate=True, lineColor=array([0.3255, 0.3255, 0.3255]), lineColorSpace='rgb', lineRGB=array([0.3255, 0.3255, 0.3255]), lineWidth=10.0, name='mem_l', opacity=1.0, ori=0.0, pos=array([0.3, 0. ]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...))
+19.5033 	EXP 	Sound mem_test_sound set volume 1.000
+19.5034 	EXP 	window1: mouseVisible = True
+19.5101 	EXP 	Created mem_test_instr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-8.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='mem_test_instr', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.5150 	EXP 	window1: mouseVisible = True
+19.5156 	EXP 	window1: mouseVisible = True
+19.5214 	EXP 	window1: mouseVisible = True
+19.5215 	EXP 	window1: mouseVisible = True
+19.5222 	EXP 	window1: mouseVisible = True
+19.5229 	EXP 	window1: mouseVisible = True
+19.5327 	EXP 	window1: mouseVisible = True
+19.5329 	EXP 	window1: mouseVisible = True
+19.5335 	EXP 	window1: mouseVisible = True
+19.5342 	EXP 	window1: mouseVisible = True
+19.5388 	EXP 	window1: mouseVisible = True
+19.5389 	EXP 	window1: mouseVisible = True
+19.5396 	EXP 	window1: mouseVisible = True
+19.5404 	EXP 	window1: mouseVisible = True
+19.5500 	EXP 	window1: mouseVisible = True
+19.5502 	EXP 	window1: mouseVisible = True
+19.5510 	EXP 	window1: mouseVisible = True
+19.5518 	EXP 	window1: mouseVisible = True
+19.5566 	EXP 	window1: mouseVisible = True
+19.5585 	EXP 	window1: mouseVisible = True
+19.6059 	EXP 	Created music_ability_slider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=0, fillColor=None, flip=False, font='Open Sans', granularity=1.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=('Yes', 'No'), lineColor=None, markerColor=None, name='music_ability_slider', opacity=None, ori=0.0, pos=array([0.1, 0.3]), readOnly=False, self=UNKNOWN, size=array([0.8 , 0.05]), startValue=None, style='radio', styleTweaks=[], ticks=array([0, 1]), units='height', win=Window(...))
+19.6107 	EXP 	window1: mouseVisible = True
+19.6112 	EXP 	window1: mouseVisible = True
+19.6169 	EXP 	window1: mouseVisible = True
+19.6171 	EXP 	window1: mouseVisible = True
+19.6178 	EXP 	window1: mouseVisible = True
+19.6184 	EXP 	window1: mouseVisible = True
+19.6233 	EXP 	window1: mouseVisible = True
+19.6235 	EXP 	window1: mouseVisible = True
+19.6242 	EXP 	window1: mouseVisible = True
+19.6248 	EXP 	window1: mouseVisible = True
+19.6293 	EXP 	window1: mouseVisible = True
+19.6295 	EXP 	window1: mouseVisible = True
+19.6302 	EXP 	window1: mouseVisible = True
+19.6308 	EXP 	window1: mouseVisible = True
+19.6357 	EXP 	window1: mouseVisible = True
+19.6358 	EXP 	window1: mouseVisible = True
+19.6366 	EXP 	window1: mouseVisible = True
+19.6372 	EXP 	window1: mouseVisible = True
+19.6419 	EXP 	window1: mouseVisible = True
+19.6436 	EXP 	window1: mouseVisible = True
+19.6916 	EXP 	Created music_theory = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-1, fillColor=None, flip=False, font='Open Sans', granularity=1.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=('Yes', 'No'), lineColor=None, markerColor=None, name='music_theory', opacity=None, ori=0.0, pos=array([ 0.1, -0.1]), readOnly=False, self=UNKNOWN, size=array([0.8 , 0.05]), startValue=None, style='radio', styleTweaks=[], ticks=array([0, 1]), units='height', win=Window(...))
+19.6918 	EXP 	window1: mouseVisible = True
+19.6970 	EXP 	Created music_ability_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='music_ability_text', opacity=1.0, ori=0.0, pos=array([-0.55,  0.3 ]), rgb=UNKNOWN, text='Have you ever \nplayed an instrument?\n', units='height', win=Window(...), wrapWidth=1)
+19.6971 	EXP 	window1: mouseVisible = True
+19.7018 	EXP 	Created music_theory_know = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='music_theory_know', opacity=1.0, ori=0.0, pos=array([-0.55, -0.1 ]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.7019 	EXP 	window1: mouseVisible = True
+19.7064 	EXP 	Created years_music = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='years_music', opacity=1.0, ori=0.0, pos=array([-0.55,  0.1 ]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.7113 	EXP 	window1: mouseVisible = True
+19.7118 	EXP 	window1: mouseVisible = True
+19.7175 	EXP 	window1: mouseVisible = True
+19.7193 	EXP 	window1: mouseVisible = True
+19.7540 	EXP 	Created years_of_musical_experience_slider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-5, fillColor=None, flip=False, font='Open Sans', granularity=1.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=None, lineColor=None, markerColor=None, name='years_of_musical_experience_slider', opacity=None, ori=0.0, pos=array([-0.2,  0.1]), readOnly=False, self=UNKNOWN, size=array([0.8 , 0.05]), startValue=None, style='radio', styleTweaks=[], ticks=array([0, 1, 2, 3, 4]), units='height', win=Window(...))
+19.7541 	EXP 	window1: mouseVisible = True
+19.7703 	EXP 	Created graph = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='eb_03_graph_structure.png', interpolate=True, mask=None, maskParams=None, name='graph', opacity=1.0, ori=0.0, pos=array([-0.4,  0. ]), size=array([0.4, 0.4]), texRes=128.0, units='height', win=Window(...))
+19.7704 	EXP 	window1: mouseVisible = True
+19.8264 	EXP 	Created debrief_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.02, italic=False, languageStyle='LTR', name='debrief_text', opacity=1.0, ori=0.0, pos=array([0.3, 0. ]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.8265 	EXP 	window1: mouseVisible = True
+19.8319 	EXP 	Created debriefing_title = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='debriefing_title', opacity=1.0, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text='Debriefing', units='height', win=Window(...), wrapWidth=1)
+19.8320 	EXP 	window1: mouseVisible = True
+19.8393 	EXP 	Created demo_scr_adv = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='demo_scr_adv', opacity=1.0, ori=0.0, pos=array([ 0.  , -0.45]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.8394 	EXP 	window1: mouseVisible = True
+19.8409 	EXP 	Created text_countdown_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_countdown_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0072 	EXP 	age_slider: autoLog = True
+0.0072 	EXP 	age_slider: ticks = <class 'numpy.ndarray'>
+0.0072 	EXP 	age_slider: styleTweaks = []
+0.0072 	EXP 	age_slider: styleTweaks = []
+0.0072 	EXP 	age_slider: styleTweaks = []
+0.0072 	EXP 	age_slider: styleTweaks = []
+0.0072 	EXP 	age_slider: ticks = <class 'numpy.ndarray'>
+0.0072 	EXP 	age_slider: contrast = 1.0
+0.0072 	EXP 	age_slider: markerPos = None
+0.0072 	EXP 	age_slider: autoLog = True
+0.0072 	EXP 	Gender: autoLog = True
+0.0072 	EXP 	Handedness: autoLog = True
+0.0072 	EXP 	Handedness: ticks = array([0, 1])
+0.0072 	EXP 	Handedness: styleTweaks = []
+0.0072 	EXP 	Handedness: styleTweaks = []
+0.0072 	EXP 	Handedness: styleTweaks = []
+0.0072 	EXP 	Handedness: styleTweaks = []
+0.0072 	EXP 	Handedness: ticks = array([0, 1])
+0.0072 	EXP 	Handedness: contrast = 1.0
+0.0072 	EXP 	Handedness: markerPos = None
+0.0072 	EXP 	Handedness: autoLog = True
+0.0072 	EXP 	music_ability_slider: autoLog = True
+0.0072 	EXP 	music_ability_slider: ticks = array([0, 1])
+0.0072 	EXP 	music_ability_slider: styleTweaks = []
+0.0072 	EXP 	music_ability_slider: styleTweaks = []
+0.0072 	EXP 	music_ability_slider: styleTweaks = []
+0.0072 	EXP 	music_ability_slider: styleTweaks = []
+0.0072 	EXP 	music_ability_slider: ticks = array([0, 1])
+0.0072 	EXP 	music_ability_slider: contrast = 1.0
+0.0072 	EXP 	music_ability_slider: markerPos = None
+0.0072 	EXP 	music_ability_slider: autoLog = True
+0.0072 	EXP 	music_theory: autoLog = True
+0.0072 	EXP 	music_theory: ticks = array([0, 1])
+0.0072 	EXP 	music_theory: styleTweaks = []
+0.0072 	EXP 	music_theory: styleTweaks = []
+0.0072 	EXP 	music_theory: styleTweaks = []
+0.0072 	EXP 	music_theory: styleTweaks = []
+0.0072 	EXP 	music_theory: ticks = array([0, 1])
+0.0072 	EXP 	music_theory: contrast = 1.0
+0.0072 	EXP 	music_theory: markerPos = None
+0.0072 	EXP 	music_theory: autoLog = True
+0.0072 	EXP 	years_of_musical_experience_slider: autoLog = True
+0.0072 	EXP 	years_of_musical_experience_slider: ticks = <class 'numpy.ndarray'>
+0.0072 	EXP 	years_of_musical_experience_slider: styleTweaks = []
+0.0072 	EXP 	years_of_musical_experience_slider: styleTweaks = []
+0.0072 	EXP 	years_of_musical_experience_slider: styleTweaks = []
+0.0072 	EXP 	years_of_musical_experience_slider: styleTweaks = []
+0.0072 	EXP 	years_of_musical_experience_slider: ticks = <class 'numpy.ndarray'>
+0.0072 	EXP 	years_of_musical_experience_slider: contrast = 1.0
+0.0072 	EXP 	years_of_musical_experience_slider: markerPos = None
+0.0072 	EXP 	years_of_musical_experience_slider: autoLog = True
+0.0154 	EXP 	welcome_text: autoDraw = True
+2.8998 	DATA 	Keypress: return
+2.9154 	EXP 	welcome_text: autoDraw = False
+2.9154 	EXP 	consent_text: autoDraw = True
+5.4825 	DATA 	Mouse: Left button down, pos=(1487,34)
+5.5573 	EXP 	consent_text: autoDraw = False
+5.5573 	EXP 	age_slider: markerPos = None
+5.5573 	EXP 	age_slider: markerPos = None
+5.5573 	EXP 	Handedness: markerPos = None
+5.5573 	EXP 	Handedness: markerPos = None
+5.5573 	EXP 	age_slider: autoDraw = True
+5.5573 	EXP 	Gender: autoDraw = True
+5.5573 	EXP 	Handedness: autoDraw = True
+5.5573 	EXP 	age_text: autoDraw = True
+5.5573 	EXP 	handedness_text: autoDraw = True
+5.5573 	EXP 	gender_text: autoDraw = True
+5.5945 	DATA 	Mouse:  Left button up, pos=(1487,34)
+6.8941 	DATA 	Mouse: Left button down, pos=(1489,458)
+6.9158 	EXP 	Handedness: markerPos = 0.9872685185185186
+6.9408 	EXP 	Handedness: markerPos = 0.9872685185185186
+6.9659 	EXP 	Handedness: markerPos = 0.9872685185185186
+6.9909 	EXP 	Handedness: markerPos = 0.9872685185185186
+7.0242 	EXP 	Handedness: markerPos = 0.9872685185185186
+7.0361 	DATA 	Mouse:  Left button up, pos=(1489,458)
+7.0575 	EXP 	Handedness: markerPos = 1
+7.0742 	EXP 	age_slider: autoDraw = False
+7.0742 	EXP 	Gender: autoDraw = False
+7.0742 	EXP 	Handedness: autoDraw = False
+7.0742 	EXP 	age_text: autoDraw = False
+7.0742 	EXP 	handedness_text: autoDraw = False
+7.0742 	EXP 	gender_text: autoDraw = False
+7.0742 	EXP 	instructions_text1: autoDraw = True
+9.0661 	EXP 	instr1_cnt_text: autoDraw = True
+10.2107 	DATA 	Keypress: space
+10.2162 	EXP 	instructions_text1: autoDraw = False
+10.2162 	EXP 	instr1_cnt_text: autoDraw = False
+10.2162 	EXP 	instructions_text2: autoDraw = True
+10.2162 	EXP 	key_stim_association: autoDraw = True
+13.2082 	EXP 	instr2_cnt_text: autoDraw = True
+14.4778 	DATA 	Keypress: space
+14.4916 	EXP 	instructions_text2: autoDraw = False
+14.4916 	EXP 	instr2_cnt_text: autoDraw = False
+14.4916 	EXP 	key_stim_association: autoDraw = False
+14.4916 	EXP 	instructions_text3: autoDraw = True
+14.4916 	EXP 	examplestim_image_2: autoDraw = True
+16.4687 	DATA 	Keypress: h
+16.4699 	DATA 	Keypress: k
+17.4837 	EXP 	instr3_cnt_text: autoDraw = True
+19.8533 	DATA 	Keypress: h
+19.8546 	DATA 	Keypress: k
+19.8917 	EXP 	Sound sound_2 started
+19.8923 	EXP 	instructions_text3: autoDraw = False
+19.8923 	EXP 	instr3_cnt_text: autoDraw = False
+19.8923 	EXP 	examplestim_image_2: autoDraw = False
+20.3673 	EXP 	instructions_text4: autoDraw = True
+20.3673 	EXP 	handplacement_image: autoDraw = True
+20.3783 	EXP 	Sound sound_2 stopped
+22.8676 	EXP 	instr4_cnt_text: autoDraw = True
+23.9785 	DATA 	Keypress: space
+23.9844 	EXP 	instructions_text4: autoDraw = False
+23.9844 	EXP 	instr4_cnt_text: autoDraw = False
+23.9844 	EXP 	handplacement_image: autoDraw = False
+23.9844 	EXP 	instructions_text5: autoDraw = True
+23.9844 	EXP 	image: autoDraw = True
+26.9763 	EXP 	instr5_cnt_text: autoDraw = True
+27.4201 	EXP 	Created sequence: random, trialTypes=1, nReps=100, seed=None
+27.4207 	EXP 	New trial (rep=0, index=0): None
+27.4833 	EXP 	Sound volume_adjuster_sound started
+27.4812 	DATA 	Keypress: space
+27.4847 	EXP 	instructions_text5: autoDraw = False
+27.4847 	EXP 	instr5_cnt_text: autoDraw = False
+27.4847 	EXP 	image: autoDraw = False
+27.4847 	EXP 	volume_adjustment_instructions: height = 0.05
+27.4847 	EXP 	volume_adjustment_instructions: height = 0.05
+27.4847 	EXP 	volume_adjustment_instructions: height = 0.05
+27.4847 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 50"
+27.4847 	EXP 	volume_adjustment_instructions: autoDraw = True
+29.4699 	DATA 	Keypress: left
+29.4979 	EXP 	Sound volume_adjuster_sound stopped
+29.4979 	EXP 	Sound volume_adjuster_sound paused
+29.4985 	EXP 	New trial (rep=1, index=0): None
+29.5499 	EXP 	Sound volume_adjuster_sound reached end of file
+29.5581 	EXP 	Sound volume_adjuster_sound started
+29.5600 	EXP 	volume_adjustment_instructions: autoDraw = False
+29.5600 	EXP 	volume_adjustment_instructions: height = 0.05
+29.5600 	EXP 	volume_adjustment_instructions: height = 0.05
+29.5600 	EXP 	volume_adjustment_instructions: height = 0.05
+29.5600 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 45"
+29.5600 	EXP 	volume_adjustment_instructions: autoDraw = True
+29.8784 	EXP 	Sound volume_adjuster_sound stopped
+29.8784 	EXP 	Sound volume_adjuster_sound paused
+29.8790 	EXP 	New trial (rep=2, index=0): None
+29.9298 	EXP 	Sound volume_adjuster_sound reached end of file
+29.9333 	EXP 	Sound volume_adjuster_sound started
+29.9326 	DATA 	Keypress: left
+29.9434 	EXP 	volume_adjustment_instructions: autoDraw = False
+29.9434 	EXP 	volume_adjustment_instructions: height = 0.05
+29.9434 	EXP 	volume_adjustment_instructions: height = 0.05
+29.9434 	EXP 	volume_adjustment_instructions: height = 0.05
+29.9434 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 40"
+29.9434 	EXP 	volume_adjustment_instructions: autoDraw = True
+30.2685 	EXP 	Sound volume_adjuster_sound stopped
+30.2685 	EXP 	Sound volume_adjuster_sound paused
+30.2690 	EXP 	New trial (rep=3, index=0): None
+30.3192 	EXP 	Sound volume_adjuster_sound reached end of file
+30.3250 	EXP 	Sound volume_adjuster_sound started
+30.3219 	DATA 	Keypress: left
+30.3267 	EXP 	volume_adjustment_instructions: autoDraw = False
+30.3267 	EXP 	volume_adjustment_instructions: height = 0.05
+30.3267 	EXP 	volume_adjustment_instructions: height = 0.05
+30.3267 	EXP 	volume_adjustment_instructions: height = 0.05
+30.3267 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 35"
+30.3267 	EXP 	volume_adjustment_instructions: autoDraw = True
+30.6178 	EXP 	Sound volume_adjuster_sound stopped
+30.6178 	EXP 	Sound volume_adjuster_sound paused
+30.6184 	EXP 	New trial (rep=4, index=0): None
+30.6680 	EXP 	Sound volume_adjuster_sound reached end of file
+30.6751 	EXP 	Sound volume_adjuster_sound started
+30.6708 	DATA 	Keypress: left
+30.6767 	EXP 	volume_adjustment_instructions: autoDraw = False
+30.6767 	EXP 	volume_adjustment_instructions: height = 0.05
+30.6767 	EXP 	volume_adjustment_instructions: height = 0.05
+30.6767 	EXP 	volume_adjustment_instructions: height = 0.05
+30.6767 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 30"
+30.6767 	EXP 	volume_adjustment_instructions: autoDraw = True
+30.8485 	EXP 	Sound volume_adjuster_sound stopped
+30.8485 	EXP 	Sound volume_adjuster_sound paused
+30.8490 	EXP 	New trial (rep=5, index=0): None
+30.8998 	EXP 	Sound volume_adjuster_sound reached end of file
+30.9003 	EXP 	Sound volume_adjuster_sound started
+30.9026 	DATA 	Keypress: left
+30.9101 	EXP 	volume_adjustment_instructions: autoDraw = False
+30.9101 	EXP 	volume_adjustment_instructions: height = 0.05
+30.9101 	EXP 	volume_adjustment_instructions: height = 0.05
+30.9101 	EXP 	volume_adjustment_instructions: height = 0.05
+30.9101 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 25"
+30.9101 	EXP 	volume_adjustment_instructions: autoDraw = True
+31.8180 	EXP 	Sound volume_adjuster_sound stopped
+31.8180 	EXP 	Sound volume_adjuster_sound paused
+31.8185 	EXP 	New trial (rep=6, index=0): None
+31.8710 	EXP 	Sound volume_adjuster_sound reached end of file
+31.8752 	EXP 	Sound volume_adjuster_sound started
+31.8737 	DATA 	Keypress: left
+31.8769 	EXP 	volume_adjustment_instructions: autoDraw = False
+31.8769 	EXP 	volume_adjustment_instructions: height = 0.05
+31.8769 	EXP 	volume_adjustment_instructions: height = 0.05
+31.8769 	EXP 	volume_adjustment_instructions: height = 0.05
+31.8769 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 20"
+31.8769 	EXP 	volume_adjustment_instructions: autoDraw = True
+32.0378 	EXP 	Sound volume_adjuster_sound stopped
+32.0378 	EXP 	Sound volume_adjuster_sound paused
+32.0384 	EXP 	New trial (rep=7, index=0): None
+32.0940 	EXP 	Sound volume_adjuster_sound reached end of file
+32.1001 	EXP 	Sound volume_adjuster_sound started
+32.0968 	DATA 	Keypress: left
+32.1019 	EXP 	volume_adjustment_instructions: autoDraw = False
+32.1019 	EXP 	volume_adjustment_instructions: height = 0.05
+32.1019 	EXP 	volume_adjustment_instructions: height = 0.05
+32.1019 	EXP 	volume_adjustment_instructions: height = 0.05
+32.1019 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 15"
+32.1019 	EXP 	volume_adjustment_instructions: autoDraw = True
+32.2278 	EXP 	Sound volume_adjuster_sound stopped
+32.2278 	EXP 	Sound volume_adjuster_sound paused
+32.2284 	EXP 	New trial (rep=8, index=0): None
+32.2816 	EXP 	Sound volume_adjuster_sound reached end of file
+32.2836 	EXP 	Sound volume_adjuster_sound started
+32.2843 	DATA 	Keypress: left
+32.2936 	EXP 	volume_adjustment_instructions: autoDraw = False
+32.2936 	EXP 	volume_adjustment_instructions: height = 0.05
+32.2936 	EXP 	volume_adjustment_instructions: height = 0.05
+32.2936 	EXP 	volume_adjustment_instructions: height = 0.05
+32.2936 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 10"
+32.2936 	EXP 	volume_adjustment_instructions: autoDraw = True
+32.4284 	EXP 	Sound volume_adjuster_sound stopped
+32.4285 	EXP 	Sound volume_adjuster_sound paused
+32.4290 	EXP 	New trial (rep=9, index=0): None
+32.4783 	EXP 	Sound volume_adjuster_sound reached end of file
+32.4837 	EXP 	Sound volume_adjuster_sound started
+32.4810 	DATA 	Keypress: left
+32.4853 	EXP 	volume_adjustment_instructions: autoDraw = False
+32.4853 	EXP 	volume_adjustment_instructions: height = 0.05
+32.4853 	EXP 	volume_adjustment_instructions: height = 0.05
+32.4853 	EXP 	volume_adjustment_instructions: height = 0.05
+32.4853 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 5"
+32.4853 	EXP 	volume_adjustment_instructions: autoDraw = True
+33.3781 	EXP 	Sound volume_adjuster_sound stopped
+33.3781 	EXP 	Sound volume_adjuster_sound paused
+33.3787 	EXP 	New trial (rep=10, index=0): None
+33.4284 	EXP 	Sound volume_adjuster_sound reached end of file
+33.4337 	EXP 	Sound volume_adjuster_sound started
+33.4311 	DATA 	Keypress: right
+33.4354 	EXP 	volume_adjustment_instructions: autoDraw = False
+33.4354 	EXP 	volume_adjustment_instructions: height = 0.05
+33.4354 	EXP 	volume_adjustment_instructions: height = 0.05
+33.4354 	EXP 	volume_adjustment_instructions: height = 0.05
+33.4354 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 10"
+33.4354 	EXP 	volume_adjustment_instructions: autoDraw = True
+33.5882 	EXP 	Sound volume_adjuster_sound stopped
+33.5882 	EXP 	Sound volume_adjuster_sound paused
+33.5888 	EXP 	New trial (rep=11, index=0): None
+33.6383 	EXP 	Sound volume_adjuster_sound reached end of file
+33.6421 	EXP 	Sound volume_adjuster_sound started
+33.6411 	DATA 	Keypress: right
+33.6437 	EXP 	volume_adjustment_instructions: autoDraw = False
+33.6437 	EXP 	volume_adjustment_instructions: height = 0.05
+33.6437 	EXP 	volume_adjustment_instructions: height = 0.05
+33.6437 	EXP 	volume_adjustment_instructions: height = 0.05
+33.6437 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 15"
+33.6437 	EXP 	volume_adjustment_instructions: autoDraw = True
+33.7785 	EXP 	Sound volume_adjuster_sound stopped
+33.7785 	EXP 	Sound volume_adjuster_sound paused
+33.7790 	EXP 	New trial (rep=12, index=0): None
+33.8279 	EXP 	Sound volume_adjuster_sound reached end of file
+33.8338 	EXP 	Sound volume_adjuster_sound started
+33.8309 	DATA 	Keypress: right
+33.8354 	EXP 	volume_adjustment_instructions: autoDraw = False
+33.8354 	EXP 	volume_adjustment_instructions: height = 0.05
+33.8354 	EXP 	volume_adjustment_instructions: height = 0.05
+33.8354 	EXP 	volume_adjustment_instructions: height = 0.05
+33.8354 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 20"
+33.8354 	EXP 	volume_adjustment_instructions: autoDraw = True
+33.9784 	EXP 	Sound volume_adjuster_sound stopped
+33.9784 	EXP 	Sound volume_adjuster_sound paused
+33.9789 	EXP 	New trial (rep=13, index=0): None
+34.0283 	EXP 	Sound volume_adjuster_sound reached end of file
+34.0338 	EXP 	Sound volume_adjuster_sound started
+34.0310 	DATA 	Keypress: right
+34.0354 	EXP 	volume_adjustment_instructions: autoDraw = False
+34.0354 	EXP 	volume_adjustment_instructions: height = 0.05
+34.0354 	EXP 	volume_adjustment_instructions: height = 0.05
+34.0354 	EXP 	volume_adjustment_instructions: height = 0.05
+34.0354 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 25"
+34.0354 	EXP 	volume_adjustment_instructions: autoDraw = True
+34.1781 	EXP 	Sound volume_adjuster_sound stopped
+34.1781 	EXP 	Sound volume_adjuster_sound paused
+34.1786 	EXP 	New trial (rep=14, index=0): None
+34.2278 	EXP 	Sound volume_adjuster_sound reached end of file
+34.2338 	EXP 	Sound volume_adjuster_sound started
+34.2306 	DATA 	Keypress: right
+34.2355 	EXP 	volume_adjustment_instructions: autoDraw = False
+34.2355 	EXP 	volume_adjustment_instructions: height = 0.05
+34.2355 	EXP 	volume_adjustment_instructions: height = 0.05
+34.2355 	EXP 	volume_adjustment_instructions: height = 0.05
+34.2355 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 30"
+34.2355 	EXP 	volume_adjustment_instructions: autoDraw = True
+34.3478 	EXP 	Sound volume_adjuster_sound stopped
+34.3479 	EXP 	Sound volume_adjuster_sound paused
+34.3485 	EXP 	New trial (rep=15, index=0): None
+34.3981 	EXP 	Sound volume_adjuster_sound reached end of file
+34.4007 	EXP 	Sound volume_adjuster_sound started
+34.4008 	DATA 	Keypress: right
+34.4108 	EXP 	volume_adjustment_instructions: autoDraw = False
+34.4108 	EXP 	volume_adjustment_instructions: height = 0.05
+34.4108 	EXP 	volume_adjustment_instructions: height = 0.05
+34.4108 	EXP 	volume_adjustment_instructions: height = 0.05
+34.4108 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 35"
+34.4108 	EXP 	volume_adjustment_instructions: autoDraw = True
+34.5484 	EXP 	Sound volume_adjuster_sound stopped
+34.5484 	EXP 	Sound volume_adjuster_sound paused
+34.5489 	EXP 	New trial (rep=16, index=0): None
+34.5977 	EXP 	Sound volume_adjuster_sound reached end of file
+34.6007 	EXP 	Sound volume_adjuster_sound started
+34.6004 	DATA 	Keypress: right
+34.6108 	EXP 	volume_adjustment_instructions: autoDraw = False
+34.6108 	EXP 	volume_adjustment_instructions: height = 0.05
+34.6108 	EXP 	volume_adjustment_instructions: height = 0.05
+34.6108 	EXP 	volume_adjustment_instructions: height = 0.05
+34.6108 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 40"
+34.6108 	EXP 	volume_adjustment_instructions: autoDraw = True
+34.7485 	EXP 	Sound volume_adjuster_sound stopped
+34.7485 	EXP 	Sound volume_adjuster_sound paused
+34.7491 	EXP 	New trial (rep=17, index=0): None
+34.7984 	EXP 	Sound volume_adjuster_sound reached end of file
+34.8006 	EXP 	Sound volume_adjuster_sound started
+34.8011 	DATA 	Keypress: right
+34.8108 	EXP 	volume_adjustment_instructions: autoDraw = False
+34.8108 	EXP 	volume_adjustment_instructions: height = 0.05
+34.8108 	EXP 	volume_adjustment_instructions: height = 0.05
+34.8108 	EXP 	volume_adjustment_instructions: height = 0.05
+34.8108 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 45"
+34.8108 	EXP 	volume_adjustment_instructions: autoDraw = True
+34.9577 	EXP 	Sound volume_adjuster_sound stopped
+34.9578 	EXP 	Sound volume_adjuster_sound paused
+34.9583 	EXP 	New trial (rep=18, index=0): None
+35.0078 	EXP 	Sound volume_adjuster_sound reached end of file
+35.0091 	EXP 	Sound volume_adjuster_sound started
+35.0105 	DATA 	Keypress: right
+35.0189 	EXP 	volume_adjustment_instructions: autoDraw = False
+35.0189 	EXP 	volume_adjustment_instructions: height = 0.05
+35.0189 	EXP 	volume_adjustment_instructions: height = 0.05
+35.0189 	EXP 	volume_adjustment_instructions: height = 0.05
+35.0189 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 50"
+35.0189 	EXP 	volume_adjustment_instructions: autoDraw = True
+35.6290 	DATA 	Keypress: right
+35.6483 	EXP 	Sound volume_adjuster_sound stopped
+35.6483 	EXP 	Sound volume_adjuster_sound paused
+35.6489 	EXP 	New trial (rep=19, index=0): None
+35.6984 	EXP 	Sound volume_adjuster_sound reached end of file
+35.7008 	EXP 	Sound volume_adjuster_sound started
+35.7109 	EXP 	volume_adjustment_instructions: autoDraw = False
+35.7109 	EXP 	volume_adjustment_instructions: height = 0.05
+35.7109 	EXP 	volume_adjustment_instructions: height = 0.05
+35.7109 	EXP 	volume_adjustment_instructions: height = 0.05
+35.7109 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 55"
+35.7109 	EXP 	volume_adjustment_instructions: autoDraw = True
+35.8985 	EXP 	Sound volume_adjuster_sound stopped
+35.8985 	EXP 	Sound volume_adjuster_sound paused
+35.8990 	EXP 	New trial (rep=20, index=0): None
+35.9488 	EXP 	Sound volume_adjuster_sound reached end of file
+35.9509 	EXP 	Sound volume_adjuster_sound started
+35.9516 	DATA 	Keypress: right
+35.9607 	EXP 	volume_adjustment_instructions: autoDraw = False
+35.9607 	EXP 	volume_adjustment_instructions: height = 0.05
+35.9607 	EXP 	volume_adjustment_instructions: height = 0.05
+35.9607 	EXP 	volume_adjustment_instructions: height = 0.05
+35.9607 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 60"
+35.9607 	EXP 	volume_adjustment_instructions: autoDraw = True
+36.4781 	EXP 	Sound volume_adjuster_sound stopped
+36.4781 	EXP 	Sound volume_adjuster_sound paused
+36.4787 	EXP 	New trial (rep=21, index=0): None
+36.5283 	EXP 	Sound volume_adjuster_sound reached end of file
+36.5341 	EXP 	Sound volume_adjuster_sound started
+36.5310 	DATA 	Keypress: left
+36.5357 	EXP 	volume_adjustment_instructions: autoDraw = False
+36.5357 	EXP 	volume_adjustment_instructions: height = 0.05
+36.5357 	EXP 	volume_adjustment_instructions: height = 0.05
+36.5357 	EXP 	volume_adjustment_instructions: height = 0.05
+36.5357 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 55"
+36.5357 	EXP 	volume_adjustment_instructions: autoDraw = True
+36.6458 	DATA 	Keypress: left
+36.6680 	EXP 	Sound volume_adjuster_sound stopped
+36.6680 	EXP 	Sound volume_adjuster_sound paused
+36.6686 	EXP 	New trial (rep=22, index=0): None
+36.7179 	EXP 	Sound volume_adjuster_sound reached end of file
+36.7258 	EXP 	Sound volume_adjuster_sound started
+36.7274 	EXP 	volume_adjustment_instructions: autoDraw = False
+36.7274 	EXP 	volume_adjustment_instructions: height = 0.05
+36.7274 	EXP 	volume_adjustment_instructions: height = 0.05
+36.7274 	EXP 	volume_adjustment_instructions: height = 0.05
+36.7274 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 50"
+36.7274 	EXP 	volume_adjustment_instructions: autoDraw = True
+36.8373 	DATA 	Keypress: left
+36.8579 	EXP 	Sound volume_adjuster_sound stopped
+36.8579 	EXP 	Sound volume_adjuster_sound paused
+36.8585 	EXP 	New trial (rep=23, index=0): None
+36.9079 	EXP 	Sound volume_adjuster_sound reached end of file
+36.9093 	EXP 	Sound volume_adjuster_sound started
+36.9191 	EXP 	volume_adjustment_instructions: autoDraw = False
+36.9191 	EXP 	volume_adjustment_instructions: height = 0.05
+36.9191 	EXP 	volume_adjustment_instructions: height = 0.05
+36.9191 	EXP 	volume_adjustment_instructions: height = 0.05
+36.9191 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 45"
+36.9191 	EXP 	volume_adjustment_instructions: autoDraw = True
+37.0207 	DATA 	Keypress: left
+37.0477 	EXP 	Sound volume_adjuster_sound stopped
+37.0477 	EXP 	Sound volume_adjuster_sound paused
+37.0483 	EXP 	New trial (rep=24, index=0): None
+37.0972 	EXP 	Sound volume_adjuster_sound reached end of file
+37.1008 	EXP 	Sound volume_adjuster_sound started
+37.1024 	EXP 	volume_adjustment_instructions: autoDraw = False
+37.1024 	EXP 	volume_adjustment_instructions: height = 0.05
+37.1024 	EXP 	volume_adjustment_instructions: height = 0.05
+37.1024 	EXP 	volume_adjustment_instructions: height = 0.05
+37.1024 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 40"
+37.1024 	EXP 	volume_adjustment_instructions: autoDraw = True
+37.2280 	EXP 	Sound volume_adjuster_sound stopped
+37.2280 	EXP 	Sound volume_adjuster_sound paused
+37.2286 	EXP 	New trial (rep=25, index=0): None
+37.2780 	EXP 	Sound volume_adjuster_sound reached end of file
+37.2842 	EXP 	Sound volume_adjuster_sound started
+37.2807 	DATA 	Keypress: left
+37.2858 	EXP 	volume_adjustment_instructions: autoDraw = False
+37.2858 	EXP 	volume_adjustment_instructions: height = 0.05
+37.2858 	EXP 	volume_adjustment_instructions: height = 0.05
+37.2858 	EXP 	volume_adjustment_instructions: height = 0.05
+37.2858 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 35"
+37.2858 	EXP 	volume_adjustment_instructions: autoDraw = True
+37.4179 	EXP 	Sound volume_adjuster_sound stopped
+37.4180 	EXP 	Sound volume_adjuster_sound paused
+37.4185 	EXP 	New trial (rep=26, index=0): None
+37.4679 	EXP 	Sound volume_adjuster_sound reached end of file
+37.4759 	EXP 	Sound volume_adjuster_sound started
+37.4707 	DATA 	Keypress: left
+37.4775 	EXP 	volume_adjustment_instructions: autoDraw = False
+37.4775 	EXP 	volume_adjustment_instructions: height = 0.05
+37.4775 	EXP 	volume_adjustment_instructions: height = 0.05
+37.4775 	EXP 	volume_adjustment_instructions: height = 0.05
+37.4775 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 30"
+37.4775 	EXP 	volume_adjustment_instructions: autoDraw = True
+37.6377 	EXP 	Sound volume_adjuster_sound stopped
+37.6377 	EXP 	Sound volume_adjuster_sound paused
+37.6382 	EXP 	New trial (rep=27, index=0): None
+37.6874 	EXP 	Sound volume_adjuster_sound reached end of file
+37.6925 	EXP 	Sound volume_adjuster_sound started
+37.6902 	DATA 	Keypress: left
+37.6942 	EXP 	volume_adjustment_instructions: autoDraw = False
+37.6942 	EXP 	volume_adjustment_instructions: height = 0.05
+37.6942 	EXP 	volume_adjustment_instructions: height = 0.05
+37.6942 	EXP 	volume_adjustment_instructions: height = 0.05
+37.6942 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 25"
+37.6942 	EXP 	volume_adjustment_instructions: autoDraw = True
+37.8779 	EXP 	Sound volume_adjuster_sound stopped
+37.8779 	EXP 	Sound volume_adjuster_sound paused
+37.8785 	EXP 	New trial (rep=28, index=0): None
+37.9274 	EXP 	Sound volume_adjuster_sound reached end of file
+37.9342 	EXP 	Sound volume_adjuster_sound started
+37.9302 	DATA 	Keypress: left
+37.9359 	EXP 	volume_adjustment_instructions: autoDraw = False
+37.9359 	EXP 	volume_adjustment_instructions: height = 0.05
+37.9359 	EXP 	volume_adjustment_instructions: height = 0.05
+37.9359 	EXP 	volume_adjustment_instructions: height = 0.05
+37.9359 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 20"
+37.9359 	EXP 	volume_adjustment_instructions: autoDraw = True
+38.2381 	EXP 	Sound volume_adjuster_sound stopped
+38.2381 	EXP 	Sound volume_adjuster_sound paused
+38.2387 	EXP 	New trial (rep=29, index=0): None
+38.2887 	EXP 	Sound volume_adjuster_sound reached end of file
+38.2926 	EXP 	Sound volume_adjuster_sound started
+38.2914 	DATA 	Keypress: left
+38.2942 	EXP 	volume_adjustment_instructions: autoDraw = False
+38.2942 	EXP 	volume_adjustment_instructions: height = 0.05
+38.2942 	EXP 	volume_adjustment_instructions: height = 0.05
+38.2942 	EXP 	volume_adjustment_instructions: height = 0.05
+38.2942 	EXP 	volume_adjustment_instructions: text = "Adjust the volume using Arrow keys \n Right arrow to increase volume \n Left arrow to decrease it \n \n Hit enter when you're comfortable with the volume. \n \n Current Volume: 15"
+38.2942 	EXP 	volume_adjustment_instructions: autoDraw = True
+39.8211 	DATA 	Keypress: return
+39.8481 	EXP 	Sound volume_adjuster_sound stopped
+39.8481 	EXP 	Sound volume_adjuster_sound paused
+39.8694 	EXP 	volume_adjustment_instructions: autoDraw = False
+39.8694 	EXP 	text_countdown_2: autoDraw = True
+44.8537 	EXP 	Created sequence: random, trialTypes=1, nReps=7, seed=None
+44.8540 	EXP 	New trial (rep=0, index=0): None
+44.8563 	EXP 	Created sequence: random, trialTypes=1, nReps=200, seed=None
+44.8572 	EXP 	New trial (rep=0, index=0): None
+44.8866 	EXP 	text_countdown_2: autoDraw = False
+44.8866 	EXP 	space: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+44.8866 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+44.8866 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+44.8866 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+44.8866 	EXP 	l: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+44.8866 	EXP 	accuracy_text: height = 0.05
+44.8866 	EXP 	accuracy_text: height = 0.05
+44.8866 	EXP 	accuracy_text: height = 0.05
+44.8866 	EXP 	accuracy_text: text = 'Your Accuracy \n0/0'
+44.8866 	EXP 	space: autoDraw = True
+44.8866 	EXP 	h: autoDraw = True
+44.8866 	EXP 	j: autoDraw = True
+44.8866 	EXP 	k: autoDraw = True
+44.8866 	EXP 	l: autoDraw = True
+44.8866 	EXP 	text: autoDraw = True
+44.8866 	EXP 	accuracy_text: autoDraw = True
+44.8866 	EXP 	text: height = 0.05
+44.8866 	EXP 	text: height = 0.05
+44.8866 	EXP 	text: height = 0.05
+44.8866 	EXP 	text: text = ''
+45.7658 	DATA 	Keypress: space
+45.7908 	DATA 	Keypress: l
+45.8366 	EXP 	Sound sound_1 started
+45.8367 	EXP 	space: autoDraw = False
+45.8367 	EXP 	h: autoDraw = False
+45.8367 	EXP 	j: autoDraw = False
+45.8367 	EXP 	k: autoDraw = False
+45.8367 	EXP 	l: autoDraw = False
+45.8367 	EXP 	text: autoDraw = False
+45.8367 	EXP 	accuracy_text: autoDraw = False
+46.3478 	EXP 	Sound sound_1 stopped
+46.3490 	EXP 	New trial (rep=1, index=0): None
+46.3618 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+46.3618 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+46.3618 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+46.3618 	EXP 	k: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+46.3618 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+46.3618 	EXP 	accuracy_text: height = 0.05
+46.3618 	EXP 	accuracy_text: height = 0.05
+46.3618 	EXP 	accuracy_text: height = 0.05
+46.3618 	EXP 	accuracy_text: text = 'Your Accuracy \n1/1'
+46.3618 	EXP 	space: autoDraw = True
+46.3618 	EXP 	h: autoDraw = True
+46.3618 	EXP 	j: autoDraw = True
+46.3618 	EXP 	k: autoDraw = True
+46.3618 	EXP 	l: autoDraw = True
+46.3618 	EXP 	text: autoDraw = True
+46.3618 	EXP 	accuracy_text: autoDraw = True
+46.9162 	DATA 	Keypress: k
+46.9783 	EXP 	Sound sound_1 started
+46.9785 	EXP 	space: autoDraw = False
+46.9785 	EXP 	h: autoDraw = False
+46.9785 	EXP 	j: autoDraw = False
+46.9785 	EXP 	k: autoDraw = False
+46.9785 	EXP 	l: autoDraw = False
+46.9785 	EXP 	text: autoDraw = False
+46.9785 	EXP 	accuracy_text: autoDraw = False
+47.4877 	EXP 	Sound sound_1 stopped
+47.4890 	EXP 	New trial (rep=2, index=0): None
+47.5036 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+47.5036 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+47.5036 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+47.5036 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+47.5036 	EXP 	l: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+47.5036 	EXP 	accuracy_text: height = 0.05
+47.5036 	EXP 	accuracy_text: height = 0.05
+47.5036 	EXP 	accuracy_text: height = 0.05
+47.5036 	EXP 	accuracy_text: text = 'Your Accuracy \n2/2'
+47.5036 	EXP 	space: autoDraw = True
+47.5036 	EXP 	h: autoDraw = True
+47.5036 	EXP 	j: autoDraw = True
+47.5036 	EXP 	k: autoDraw = True
+47.5036 	EXP 	l: autoDraw = True
+47.5036 	EXP 	text: autoDraw = True
+47.5036 	EXP 	accuracy_text: autoDraw = True
+48.0079 	DATA 	Keypress: l
+48.0868 	EXP 	Sound sound_1 started
+48.0870 	EXP 	space: autoDraw = False
+48.0870 	EXP 	h: autoDraw = False
+48.0870 	EXP 	j: autoDraw = False
+48.0870 	EXP 	k: autoDraw = False
+48.0870 	EXP 	l: autoDraw = False
+48.0870 	EXP 	text: autoDraw = False
+48.0870 	EXP 	accuracy_text: autoDraw = False
+48.5979 	EXP 	Sound sound_1 stopped
+48.5991 	EXP 	New trial (rep=3, index=0): None
+48.6120 	EXP 	space: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+48.6120 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+48.6120 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+48.6120 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+48.6120 	EXP 	l: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+48.6120 	EXP 	accuracy_text: height = 0.05
+48.6120 	EXP 	accuracy_text: height = 0.05
+48.6120 	EXP 	accuracy_text: height = 0.05
+48.6120 	EXP 	accuracy_text: text = 'Your Accuracy \n3/3'
+48.6120 	EXP 	space: autoDraw = True
+48.6120 	EXP 	h: autoDraw = True
+48.6120 	EXP 	j: autoDraw = True
+48.6120 	EXP 	k: autoDraw = True
+48.6120 	EXP 	l: autoDraw = True
+48.6120 	EXP 	text: autoDraw = True
+48.6120 	EXP 	accuracy_text: autoDraw = True
+49.2913 	DATA 	Keypress: space
+49.3329 	DATA 	Keypress: l
+49.3536 	EXP 	Sound sound_1 started
+49.3538 	EXP 	space: autoDraw = False
+49.3538 	EXP 	h: autoDraw = False
+49.3538 	EXP 	j: autoDraw = False
+49.3538 	EXP 	k: autoDraw = False
+49.3538 	EXP 	l: autoDraw = False
+49.3538 	EXP 	text: autoDraw = False
+49.3538 	EXP 	accuracy_text: autoDraw = False
+49.8581 	EXP 	Sound sound_1 stopped
+49.8593 	EXP 	New trial (rep=4, index=0): None
+49.8705 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+49.8705 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+49.8705 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+49.8705 	EXP 	k: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+49.8705 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+49.8705 	EXP 	accuracy_text: height = 0.05
+49.8705 	EXP 	accuracy_text: height = 0.05
+49.8705 	EXP 	accuracy_text: height = 0.05
+49.8705 	EXP 	accuracy_text: text = 'Your Accuracy \n4/4'
+49.8705 	EXP 	space: autoDraw = True
+49.8705 	EXP 	h: autoDraw = True
+49.8705 	EXP 	j: autoDraw = True
+49.8705 	EXP 	k: autoDraw = True
+49.8705 	EXP 	l: autoDraw = True
+49.8705 	EXP 	text: autoDraw = True
+49.8705 	EXP 	accuracy_text: autoDraw = True
+50.3579 	DATA 	Keypress: k
+50.4370 	EXP 	Sound sound_1 started
+50.4372 	EXP 	space: autoDraw = False
+50.4372 	EXP 	h: autoDraw = False
+50.4372 	EXP 	j: autoDraw = False
+50.4372 	EXP 	k: autoDraw = False
+50.4372 	EXP 	l: autoDraw = False
+50.4372 	EXP 	text: autoDraw = False
+50.4372 	EXP 	accuracy_text: autoDraw = False
+50.9480 	EXP 	Sound sound_1 stopped
+50.9492 	EXP 	New trial (rep=5, index=0): None
+50.9623 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+50.9623 	EXP 	h: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+50.9623 	EXP 	j: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+50.9623 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+50.9623 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+50.9623 	EXP 	accuracy_text: height = 0.05
+50.9623 	EXP 	accuracy_text: height = 0.05
+50.9623 	EXP 	accuracy_text: height = 0.05
+50.9623 	EXP 	accuracy_text: text = 'Your Accuracy \n5/5'
+50.9623 	EXP 	space: autoDraw = True
+50.9623 	EXP 	h: autoDraw = True
+50.9623 	EXP 	j: autoDraw = True
+50.9623 	EXP 	k: autoDraw = True
+50.9623 	EXP 	l: autoDraw = True
+50.9623 	EXP 	text: autoDraw = True
+50.9623 	EXP 	accuracy_text: autoDraw = True
+51.6916 	DATA 	Keypress: h
+51.6931 	DATA 	Keypress: j
+51.7622 	EXP 	Sound sound_1 started
+51.7624 	EXP 	space: autoDraw = False
+51.7624 	EXP 	h: autoDraw = False
+51.7624 	EXP 	j: autoDraw = False
+51.7624 	EXP 	k: autoDraw = False
+51.7624 	EXP 	l: autoDraw = False
+51.7624 	EXP 	text: autoDraw = False
+51.7624 	EXP 	accuracy_text: autoDraw = False
+52.2679 	EXP 	Sound sound_1 stopped
+52.2691 	EXP 	New trial (rep=6, index=0): None
+52.2877 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+52.2877 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+52.2877 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+52.2877 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+52.2877 	EXP 	l: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+52.2877 	EXP 	accuracy_text: height = 0.05
+52.2877 	EXP 	accuracy_text: height = 0.05
+52.2877 	EXP 	accuracy_text: height = 0.05
+52.2877 	EXP 	accuracy_text: text = 'Your Accuracy \n6/6'
+52.2877 	EXP 	space: autoDraw = True
+52.2877 	EXP 	h: autoDraw = True
+52.2877 	EXP 	j: autoDraw = True
+52.2877 	EXP 	k: autoDraw = True
+52.2877 	EXP 	l: autoDraw = True
+52.2877 	EXP 	text: autoDraw = True
+52.2877 	EXP 	accuracy_text: autoDraw = True
+52.7833 	DATA 	Keypress: l
+52.8539 	EXP 	Sound sound_1 started
+52.8541 	EXP 	space: autoDraw = False
+52.8541 	EXP 	h: autoDraw = False
+52.8541 	EXP 	j: autoDraw = False
+52.8541 	EXP 	k: autoDraw = False
+52.8541 	EXP 	l: autoDraw = False
+52.8541 	EXP 	text: autoDraw = False
+52.8541 	EXP 	accuracy_text: autoDraw = False
+53.3580 	EXP 	Sound sound_1 stopped
+53.3591 	EXP 	New trial (rep=7, index=0): None
+53.3708 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+53.3708 	EXP 	h: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+53.3708 	EXP 	j: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+53.3708 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+53.3708 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+53.3708 	EXP 	accuracy_text: height = 0.05
+53.3708 	EXP 	accuracy_text: height = 0.05
+53.3708 	EXP 	accuracy_text: height = 0.05
+53.3708 	EXP 	accuracy_text: text = 'Your Accuracy \n7/7'
+53.3708 	EXP 	space: autoDraw = True
+53.3708 	EXP 	h: autoDraw = True
+53.3708 	EXP 	j: autoDraw = True
+53.3708 	EXP 	k: autoDraw = True
+53.3708 	EXP 	l: autoDraw = True
+53.3708 	EXP 	text: autoDraw = True
+53.3708 	EXP 	accuracy_text: autoDraw = True
+54.0085 	DATA 	Keypress: h
+54.0167 	DATA 	Keypress: j
+54.0707 	EXP 	Sound sound_1 started
+54.0709 	EXP 	space: autoDraw = False
+54.0709 	EXP 	h: autoDraw = False
+54.0709 	EXP 	j: autoDraw = False
+54.0709 	EXP 	k: autoDraw = False
+54.0709 	EXP 	l: autoDraw = False
+54.0709 	EXP 	text: autoDraw = False
+54.0709 	EXP 	accuracy_text: autoDraw = False
+54.5777 	EXP 	Sound sound_1 stopped
+54.5789 	EXP 	New trial (rep=8, index=0): None
+54.5960 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+54.5960 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+54.5960 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+54.5960 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+54.5960 	EXP 	l: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+54.5960 	EXP 	accuracy_text: height = 0.05
+54.5960 	EXP 	accuracy_text: height = 0.05
+54.5960 	EXP 	accuracy_text: height = 0.05
+54.5960 	EXP 	accuracy_text: text = 'Your Accuracy \n8/8'
+54.5960 	EXP 	space: autoDraw = True
+54.5960 	EXP 	h: autoDraw = True
+54.5960 	EXP 	j: autoDraw = True
+54.5960 	EXP 	k: autoDraw = True
+54.5960 	EXP 	l: autoDraw = True
+54.5960 	EXP 	text: autoDraw = True
+54.5960 	EXP 	accuracy_text: autoDraw = True
+55.0001 	DATA 	Keypress: l
+55.0709 	EXP 	Sound sound_1 started
+55.0711 	EXP 	space: autoDraw = False
+55.0711 	EXP 	h: autoDraw = False
+55.0711 	EXP 	j: autoDraw = False
+55.0711 	EXP 	k: autoDraw = False
+55.0711 	EXP 	l: autoDraw = False
+55.0711 	EXP 	text: autoDraw = False
+55.0711 	EXP 	accuracy_text: autoDraw = False
+55.5774 	EXP 	Sound sound_1 stopped
+55.5787 	EXP 	New trial (rep=9, index=0): None
+55.5961 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+55.5961 	EXP 	h: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+55.5961 	EXP 	j: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+55.5961 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+55.5961 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+55.5961 	EXP 	accuracy_text: height = 0.05
+55.5961 	EXP 	accuracy_text: height = 0.05
+55.5961 	EXP 	accuracy_text: height = 0.05
+55.5961 	EXP 	accuracy_text: text = 'Your Accuracy \n9/9'
+55.5961 	EXP 	space: autoDraw = True
+55.5961 	EXP 	h: autoDraw = True
+55.5961 	EXP 	j: autoDraw = True
+55.5961 	EXP 	k: autoDraw = True
+55.5961 	EXP 	l: autoDraw = True
+55.5961 	EXP 	text: autoDraw = True
+55.5961 	EXP 	accuracy_text: autoDraw = True
+56.1755 	DATA 	Keypress: h
+56.1771 	DATA 	Keypress: j
+56.2627 	EXP 	Sound sound_1 started
+56.2628 	EXP 	space: autoDraw = False
+56.2628 	EXP 	h: autoDraw = False
+56.2628 	EXP 	j: autoDraw = False
+56.2628 	EXP 	k: autoDraw = False
+56.2628 	EXP 	l: autoDraw = False
+56.2628 	EXP 	text: autoDraw = False
+56.2628 	EXP 	accuracy_text: autoDraw = False
+56.7679 	EXP 	Sound sound_1 stopped
+56.7691 	EXP 	New trial (rep=10, index=0): None
+56.7796 	EXP 	space: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+56.7796 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+56.7796 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+56.7796 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+56.7796 	EXP 	l: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+56.7796 	EXP 	accuracy_text: height = 0.05
+56.7796 	EXP 	accuracy_text: height = 0.05
+56.7796 	EXP 	accuracy_text: height = 0.05
+56.7796 	EXP 	accuracy_text: text = 'Your Accuracy \n10/10'
+56.7796 	EXP 	space: autoDraw = True
+56.7796 	EXP 	h: autoDraw = True
+56.7796 	EXP 	j: autoDraw = True
+56.7796 	EXP 	k: autoDraw = True
+56.7796 	EXP 	l: autoDraw = True
+56.7796 	EXP 	text: autoDraw = True
+56.7796 	EXP 	accuracy_text: autoDraw = True
+57.4672 	DATA 	Keypress: space
+57.4921 	DATA 	Keypress: l
+57.5295 	EXP 	Sound sound_1 started
+57.5296 	EXP 	space: autoDraw = False
+57.5296 	EXP 	h: autoDraw = False
+57.5296 	EXP 	j: autoDraw = False
+57.5296 	EXP 	k: autoDraw = False
+57.5296 	EXP 	l: autoDraw = False
+57.5296 	EXP 	text: autoDraw = False
+57.5296 	EXP 	accuracy_text: autoDraw = False
+58.0380 	EXP 	Sound sound_1 stopped
+58.0392 	EXP 	New trial (rep=11, index=0): None
+58.0547 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+58.0547 	EXP 	h: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+58.0547 	EXP 	j: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+58.0547 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+58.0547 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+58.0547 	EXP 	accuracy_text: height = 0.05
+58.0547 	EXP 	accuracy_text: height = 0.05
+58.0547 	EXP 	accuracy_text: height = 0.05
+58.0547 	EXP 	accuracy_text: text = 'Your Accuracy \n11/11'
+58.0547 	EXP 	space: autoDraw = True
+58.0547 	EXP 	h: autoDraw = True
+58.0547 	EXP 	j: autoDraw = True
+58.0547 	EXP 	k: autoDraw = True
+58.0547 	EXP 	l: autoDraw = True
+58.0547 	EXP 	text: autoDraw = True
+58.0547 	EXP 	accuracy_text: autoDraw = True
+58.6260 	DATA 	Keypress: h
+58.6278 	DATA 	Keypress: j
+58.7046 	EXP 	Sound sound_1 started
+58.7048 	EXP 	space: autoDraw = False
+58.7048 	EXP 	h: autoDraw = False
+58.7048 	EXP 	j: autoDraw = False
+58.7048 	EXP 	k: autoDraw = False
+58.7048 	EXP 	l: autoDraw = False
+58.7048 	EXP 	text: autoDraw = False
+58.7048 	EXP 	accuracy_text: autoDraw = False
+59.2080 	EXP 	Sound sound_1 stopped
+59.2091 	EXP 	New trial (rep=12, index=0): None
+59.2215 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+59.2215 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+59.2215 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+59.2215 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+59.2215 	EXP 	l: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+59.2215 	EXP 	accuracy_text: height = 0.05
+59.2215 	EXP 	accuracy_text: height = 0.05
+59.2215 	EXP 	accuracy_text: height = 0.05
+59.2215 	EXP 	accuracy_text: text = 'Your Accuracy \n12/12'
+59.2215 	EXP 	space: autoDraw = True
+59.2215 	EXP 	h: autoDraw = True
+59.2215 	EXP 	j: autoDraw = True
+59.2215 	EXP 	k: autoDraw = True
+59.2215 	EXP 	l: autoDraw = True
+59.2215 	EXP 	text: autoDraw = True
+59.2215 	EXP 	accuracy_text: autoDraw = True
+59.6509 	DATA 	Keypress: l
+59.7130 	EXP 	Sound sound_1 started
+59.7132 	EXP 	space: autoDraw = False
+59.7132 	EXP 	h: autoDraw = False
+59.7132 	EXP 	j: autoDraw = False
+59.7132 	EXP 	k: autoDraw = False
+59.7132 	EXP 	l: autoDraw = False
+59.7132 	EXP 	text: autoDraw = False
+59.7132 	EXP 	accuracy_text: autoDraw = False
+60.2180 	EXP 	Sound sound_1 stopped
+60.2192 	EXP 	New trial (rep=13, index=0): None
+60.2299 	EXP 	space: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+60.2299 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+60.2299 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+60.2299 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+60.2299 	EXP 	l: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+60.2299 	EXP 	accuracy_text: height = 0.05
+60.2299 	EXP 	accuracy_text: height = 0.05
+60.2299 	EXP 	accuracy_text: height = 0.05
+60.2299 	EXP 	accuracy_text: text = 'Your Accuracy \n13/13'
+60.2299 	EXP 	space: autoDraw = True
+60.2299 	EXP 	h: autoDraw = True
+60.2299 	EXP 	j: autoDraw = True
+60.2299 	EXP 	k: autoDraw = True
+60.2299 	EXP 	l: autoDraw = True
+60.2299 	EXP 	text: autoDraw = True
+60.2299 	EXP 	accuracy_text: autoDraw = True
+60.8842 	DATA 	Keypress: space
+60.9009 	DATA 	Keypress: l
+60.9548 	EXP 	Sound sound_1 started
+60.9550 	EXP 	space: autoDraw = False
+60.9550 	EXP 	h: autoDraw = False
+60.9550 	EXP 	j: autoDraw = False
+60.9550 	EXP 	k: autoDraw = False
+60.9550 	EXP 	l: autoDraw = False
+60.9550 	EXP 	text: autoDraw = False
+60.9550 	EXP 	accuracy_text: autoDraw = False
+61.4579 	EXP 	Sound sound_1 stopped
+61.4592 	EXP 	New trial (rep=14, index=0): None
+61.4717 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+61.4717 	EXP 	h: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+61.4717 	EXP 	j: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+61.4717 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+61.4717 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+61.4717 	EXP 	accuracy_text: height = 0.05
+61.4717 	EXP 	accuracy_text: height = 0.05
+61.4717 	EXP 	accuracy_text: height = 0.05
+61.4717 	EXP 	accuracy_text: text = 'Your Accuracy \n14/14'
+61.4717 	EXP 	space: autoDraw = True
+61.4717 	EXP 	h: autoDraw = True
+61.4717 	EXP 	j: autoDraw = True
+61.4717 	EXP 	k: autoDraw = True
+61.4717 	EXP 	l: autoDraw = True
+61.4717 	EXP 	text: autoDraw = True
+61.4717 	EXP 	accuracy_text: autoDraw = True
+62.0094 	DATA 	Keypress: j
+62.0346 	DATA 	Keypress: h
+62.0716 	EXP 	Sound sound_1 started
+62.0718 	EXP 	space: autoDraw = False
+62.0718 	EXP 	h: autoDraw = False
+62.0718 	EXP 	j: autoDraw = False
+62.0718 	EXP 	k: autoDraw = False
+62.0718 	EXP 	l: autoDraw = False
+62.0718 	EXP 	text: autoDraw = False
+62.0718 	EXP 	accuracy_text: autoDraw = False
+62.5776 	EXP 	Sound sound_1 stopped
+62.5788 	EXP 	New trial (rep=15, index=0): None
+62.5969 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+62.5969 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+62.5969 	EXP 	j: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+62.5969 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+62.5969 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+62.5969 	EXP 	accuracy_text: height = 0.05
+62.5969 	EXP 	accuracy_text: height = 0.05
+62.5969 	EXP 	accuracy_text: height = 0.05
+62.5969 	EXP 	accuracy_text: text = 'Your Accuracy \n15/15'
+62.5969 	EXP 	space: autoDraw = True
+62.5969 	EXP 	h: autoDraw = True
+62.5969 	EXP 	j: autoDraw = True
+62.5969 	EXP 	k: autoDraw = True
+62.5969 	EXP 	l: autoDraw = True
+62.5969 	EXP 	text: autoDraw = True
+62.5969 	EXP 	accuracy_text: autoDraw = True
+63.1427 	DATA 	Keypress: j
+63.2134 	EXP 	Sound sound_1 started
+63.2136 	EXP 	space: autoDraw = False
+63.2136 	EXP 	h: autoDraw = False
+63.2136 	EXP 	j: autoDraw = False
+63.2136 	EXP 	k: autoDraw = False
+63.2136 	EXP 	l: autoDraw = False
+63.2136 	EXP 	text: autoDraw = False
+63.2136 	EXP 	accuracy_text: autoDraw = False
+63.7175 	EXP 	Sound sound_1 stopped
+63.7187 	EXP 	New trial (rep=16, index=0): None
+63.7303 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+63.7303 	EXP 	h: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+63.7303 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+63.7303 	EXP 	k: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+63.7303 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+63.7303 	EXP 	accuracy_text: height = 0.05
+63.7303 	EXP 	accuracy_text: height = 0.05
+63.7303 	EXP 	accuracy_text: height = 0.05
+63.7303 	EXP 	accuracy_text: text = 'Your Accuracy \n16/16'
+63.7303 	EXP 	space: autoDraw = True
+63.7303 	EXP 	h: autoDraw = True
+63.7303 	EXP 	j: autoDraw = True
+63.7303 	EXP 	k: autoDraw = True
+63.7303 	EXP 	l: autoDraw = True
+63.7303 	EXP 	text: autoDraw = True
+63.7303 	EXP 	accuracy_text: autoDraw = True
+64.3512 	DATA 	Keypress: h
+64.3679 	DATA 	Keypress: k
+64.4219 	EXP 	Sound sound_1 started
+64.4220 	EXP 	space: autoDraw = False
+64.4220 	EXP 	h: autoDraw = False
+64.4220 	EXP 	j: autoDraw = False
+64.4220 	EXP 	k: autoDraw = False
+64.4220 	EXP 	l: autoDraw = False
+64.4220 	EXP 	text: autoDraw = False
+64.4220 	EXP 	accuracy_text: autoDraw = False
+64.9274 	EXP 	Sound sound_1 stopped
+64.9286 	EXP 	New trial (rep=17, index=0): None
+64.9471 	EXP 	space: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+64.9471 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+64.9471 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+64.9471 	EXP 	k: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+64.9471 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+64.9471 	EXP 	accuracy_text: height = 0.05
+64.9471 	EXP 	accuracy_text: height = 0.05
+64.9471 	EXP 	accuracy_text: height = 0.05
+64.9471 	EXP 	accuracy_text: text = 'Your Accuracy \n17/17'
+64.9471 	EXP 	space: autoDraw = True
+64.9471 	EXP 	h: autoDraw = True
+64.9471 	EXP 	j: autoDraw = True
+64.9471 	EXP 	k: autoDraw = True
+64.9471 	EXP 	l: autoDraw = True
+64.9471 	EXP 	text: autoDraw = True
+64.9471 	EXP 	accuracy_text: autoDraw = True
+65.6598 	DATA 	Keypress: space
+65.6764 	DATA 	Keypress: k
+65.7220 	EXP 	Sound sound_1 started
+65.7222 	EXP 	space: autoDraw = False
+65.7222 	EXP 	h: autoDraw = False
+65.7222 	EXP 	j: autoDraw = False
+65.7222 	EXP 	k: autoDraw = False
+65.7222 	EXP 	l: autoDraw = False
+65.7222 	EXP 	text: autoDraw = False
+65.7222 	EXP 	accuracy_text: autoDraw = False
+66.2275 	EXP 	Sound sound_1 stopped
+66.2288 	EXP 	New trial (rep=18, index=0): None
+66.2472 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+66.2472 	EXP 	h: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+66.2472 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+66.2472 	EXP 	k: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+66.2472 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+66.2472 	EXP 	accuracy_text: height = 0.05
+66.2472 	EXP 	accuracy_text: height = 0.05
+66.2472 	EXP 	accuracy_text: height = 0.05
+66.2472 	EXP 	accuracy_text: text = 'Your Accuracy \n18/18'
+66.2472 	EXP 	space: autoDraw = True
+66.2472 	EXP 	h: autoDraw = True
+66.2472 	EXP 	j: autoDraw = True
+66.2472 	EXP 	k: autoDraw = True
+66.2472 	EXP 	l: autoDraw = True
+66.2472 	EXP 	text: autoDraw = True
+66.2472 	EXP 	accuracy_text: autoDraw = True
+66.9181 	DATA 	Keypress: h
+66.9202 	DATA 	Keypress: k
+66.9972 	EXP 	Sound sound_1 started
+66.9973 	EXP 	space: autoDraw = False
+66.9973 	EXP 	h: autoDraw = False
+66.9973 	EXP 	j: autoDraw = False
+66.9973 	EXP 	k: autoDraw = False
+66.9973 	EXP 	l: autoDraw = False
+66.9973 	EXP 	text: autoDraw = False
+66.9973 	EXP 	accuracy_text: autoDraw = False
+67.5073 	EXP 	Sound sound_1 stopped
+67.5085 	EXP 	New trial (rep=19, index=0): None
+67.5224 	EXP 	space: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+67.5224 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+67.5224 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+67.5224 	EXP 	k: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+67.5224 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+67.5224 	EXP 	accuracy_text: height = 0.05
+67.5224 	EXP 	accuracy_text: height = 0.05
+67.5224 	EXP 	accuracy_text: height = 0.05
+67.5224 	EXP 	accuracy_text: text = 'Your Accuracy \n19/19'
+67.5224 	EXP 	space: autoDraw = True
+67.5224 	EXP 	h: autoDraw = True
+67.5224 	EXP 	j: autoDraw = True
+67.5224 	EXP 	k: autoDraw = True
+67.5224 	EXP 	l: autoDraw = True
+67.5224 	EXP 	text: autoDraw = True
+67.5224 	EXP 	accuracy_text: autoDraw = True
+68.2184 	DATA 	Keypress: space
+68.2351 	DATA 	Keypress: k
+68.2806 	EXP 	Sound sound_1 started
+68.2808 	EXP 	space: autoDraw = False
+68.2808 	EXP 	h: autoDraw = False
+68.2808 	EXP 	j: autoDraw = False
+68.2808 	EXP 	k: autoDraw = False
+68.2808 	EXP 	l: autoDraw = False
+68.2808 	EXP 	text: autoDraw = False
+68.2808 	EXP 	accuracy_text: autoDraw = False
+68.7875 	EXP 	Sound sound_1 stopped
+68.7888 	EXP 	New trial (rep=20, index=0): None
+68.8058 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+68.8058 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+68.8058 	EXP 	j: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+68.8058 	EXP 	k: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+68.8058 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+68.8058 	EXP 	accuracy_text: height = 0.05
+68.8058 	EXP 	accuracy_text: height = 0.05
+68.8058 	EXP 	accuracy_text: height = 0.05
+68.8058 	EXP 	accuracy_text: text = 'Your Accuracy \n20/20'
+68.8058 	EXP 	space: autoDraw = True
+68.8058 	EXP 	h: autoDraw = True
+68.8058 	EXP 	j: autoDraw = True
+68.8058 	EXP 	k: autoDraw = True
+68.8058 	EXP 	l: autoDraw = True
+68.8058 	EXP 	text: autoDraw = True
+68.8058 	EXP 	accuracy_text: autoDraw = True
+69.4852 	DATA 	Keypress: k
+69.5563 	DATA 	Keypress: j
+69.6224 	EXP 	Sound sound_1 started
+69.6226 	EXP 	space: autoDraw = False
+69.6226 	EXP 	h: autoDraw = False
+69.6226 	EXP 	j: autoDraw = False
+69.6226 	EXP 	k: autoDraw = False
+69.6226 	EXP 	l: autoDraw = False
+69.6226 	EXP 	text: autoDraw = False
+69.6226 	EXP 	accuracy_text: autoDraw = False
+70.1276 	EXP 	Sound sound_1 stopped
+70.1288 	EXP 	New trial (rep=21, index=0): None
+70.1393 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+70.1393 	EXP 	h: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+70.1393 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+70.1393 	EXP 	k: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+70.1393 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+70.1393 	EXP 	accuracy_text: height = 0.05
+70.1393 	EXP 	accuracy_text: height = 0.05
+70.1393 	EXP 	accuracy_text: height = 0.05
+70.1393 	EXP 	accuracy_text: text = 'Your Accuracy \n20/21'
+70.1393 	EXP 	space: autoDraw = True
+70.1393 	EXP 	h: autoDraw = True
+70.1393 	EXP 	j: autoDraw = True
+70.1393 	EXP 	k: autoDraw = True
+70.1393 	EXP 	l: autoDraw = True
+70.1393 	EXP 	text: autoDraw = True
+70.1393 	EXP 	accuracy_text: autoDraw = True
+70.8438 	DATA 	Keypress: h
+70.8603 	DATA 	Keypress: k
+70.9143 	EXP 	Sound sound_1 started
+70.9144 	EXP 	space: autoDraw = False
+70.9144 	EXP 	h: autoDraw = False
+70.9144 	EXP 	j: autoDraw = False
+70.9144 	EXP 	k: autoDraw = False
+70.9144 	EXP 	l: autoDraw = False
+70.9144 	EXP 	text: autoDraw = False
+70.9144 	EXP 	accuracy_text: autoDraw = False
+71.4171 	EXP 	Sound sound_1 stopped
+71.4182 	EXP 	New trial (rep=22, index=0): None
+71.4312 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+71.4312 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+71.4312 	EXP 	j: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+71.4312 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+71.4312 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+71.4312 	EXP 	accuracy_text: height = 0.05
+71.4312 	EXP 	accuracy_text: height = 0.05
+71.4312 	EXP 	accuracy_text: height = 0.05
+71.4312 	EXP 	accuracy_text: text = 'Your Accuracy \n21/22'
+71.4312 	EXP 	space: autoDraw = True
+71.4312 	EXP 	h: autoDraw = True
+71.4312 	EXP 	j: autoDraw = True
+71.4312 	EXP 	k: autoDraw = True
+71.4312 	EXP 	l: autoDraw = True
+71.4312 	EXP 	text: autoDraw = True
+71.4312 	EXP 	accuracy_text: autoDraw = True
+71.9937 	DATA 	Keypress: j
+72.0560 	EXP 	Sound sound_1 started
+72.0562 	EXP 	space: autoDraw = False
+72.0562 	EXP 	h: autoDraw = False
+72.0562 	EXP 	j: autoDraw = False
+72.0562 	EXP 	k: autoDraw = False
+72.0562 	EXP 	l: autoDraw = False
+72.0562 	EXP 	text: autoDraw = False
+72.0562 	EXP 	accuracy_text: autoDraw = False
+72.5675 	EXP 	Sound sound_1 stopped
+72.5687 	EXP 	New trial (rep=23, index=0): None
+72.5813 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+72.5813 	EXP 	h: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+72.5813 	EXP 	j: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+72.5813 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+72.5813 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+72.5813 	EXP 	accuracy_text: height = 0.05
+72.5813 	EXP 	accuracy_text: height = 0.05
+72.5813 	EXP 	accuracy_text: height = 0.05
+72.5813 	EXP 	accuracy_text: text = 'Your Accuracy \n22/23'
+72.5813 	EXP 	space: autoDraw = True
+72.5813 	EXP 	h: autoDraw = True
+72.5813 	EXP 	j: autoDraw = True
+72.5813 	EXP 	k: autoDraw = True
+72.5813 	EXP 	l: autoDraw = True
+72.5813 	EXP 	text: autoDraw = True
+72.5813 	EXP 	accuracy_text: autoDraw = True
+73.1857 	DATA 	Keypress: h
+73.2022 	DATA 	Keypress: j
+73.2562 	EXP 	Sound sound_1 started
+73.2564 	EXP 	space: autoDraw = False
+73.2564 	EXP 	h: autoDraw = False
+73.2564 	EXP 	j: autoDraw = False
+73.2564 	EXP 	k: autoDraw = False
+73.2564 	EXP 	l: autoDraw = False
+73.2564 	EXP 	text: autoDraw = False
+73.2564 	EXP 	accuracy_text: autoDraw = False
+73.7676 	EXP 	Sound sound_1 stopped
+73.7688 	EXP 	New trial (rep=24, index=0): None
+73.7814 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+73.7814 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+73.7814 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+73.7814 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+73.7814 	EXP 	l: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+73.7814 	EXP 	accuracy_text: height = 0.05
+73.7814 	EXP 	accuracy_text: height = 0.05
+73.7814 	EXP 	accuracy_text: height = 0.05
+73.7814 	EXP 	accuracy_text: text = 'Your Accuracy \n23/24'
+73.7814 	EXP 	space: autoDraw = True
+73.7814 	EXP 	h: autoDraw = True
+73.7814 	EXP 	j: autoDraw = True
+73.7814 	EXP 	k: autoDraw = True
+73.7814 	EXP 	l: autoDraw = True
+73.7814 	EXP 	text: autoDraw = True
+73.7814 	EXP 	accuracy_text: autoDraw = True
+74.2442 	DATA 	Keypress: l
+74.3229 	EXP 	Sound sound_1 started
+74.3231 	EXP 	space: autoDraw = False
+74.3231 	EXP 	h: autoDraw = False
+74.3231 	EXP 	j: autoDraw = False
+74.3231 	EXP 	k: autoDraw = False
+74.3231 	EXP 	l: autoDraw = False
+74.3231 	EXP 	text: autoDraw = False
+74.3231 	EXP 	accuracy_text: autoDraw = False
+74.8269 	EXP 	Sound sound_1 stopped
+74.8281 	EXP 	New trial (rep=25, index=0): None
+74.8398 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+74.8398 	EXP 	h: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+74.8398 	EXP 	j: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+74.8398 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+74.8398 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+74.8398 	EXP 	accuracy_text: height = 0.05
+74.8398 	EXP 	accuracy_text: height = 0.05
+74.8398 	EXP 	accuracy_text: height = 0.05
+74.8398 	EXP 	accuracy_text: text = 'Your Accuracy \n24/25'
+74.8398 	EXP 	space: autoDraw = True
+74.8398 	EXP 	h: autoDraw = True
+74.8398 	EXP 	j: autoDraw = True
+74.8398 	EXP 	k: autoDraw = True
+74.8398 	EXP 	l: autoDraw = True
+74.8398 	EXP 	text: autoDraw = True
+74.8398 	EXP 	accuracy_text: autoDraw = True
+75.3944 	DATA 	Keypress: h
+75.3968 	DATA 	Keypress: space
+75.4647 	EXP 	Sound sound_1 started
+75.4649 	EXP 	space: autoDraw = False
+75.4649 	EXP 	h: autoDraw = False
+75.4649 	EXP 	j: autoDraw = False
+75.4649 	EXP 	k: autoDraw = False
+75.4649 	EXP 	l: autoDraw = False
+75.4649 	EXP 	text: autoDraw = False
+75.4649 	EXP 	accuracy_text: autoDraw = False
+75.9670 	EXP 	Sound sound_1 stopped
+75.9682 	EXP 	New trial (rep=26, index=0): None
+75.9817 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+75.9817 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+75.9817 	EXP 	j: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+75.9817 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+75.9817 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+75.9817 	EXP 	accuracy_text: height = 0.05
+75.9817 	EXP 	accuracy_text: height = 0.05
+75.9817 	EXP 	accuracy_text: height = 0.05
+75.9817 	EXP 	accuracy_text: text = 'Your Accuracy \n24/26'
+75.9817 	EXP 	space: autoDraw = True
+75.9817 	EXP 	h: autoDraw = True
+75.9817 	EXP 	j: autoDraw = True
+75.9817 	EXP 	k: autoDraw = True
+75.9817 	EXP 	l: autoDraw = True
+75.9817 	EXP 	text: autoDraw = True
+75.9817 	EXP 	accuracy_text: autoDraw = True
+76.5859 	DATA 	Keypress: j
+76.6649 	EXP 	Sound sound_1 started
+76.6651 	EXP 	space: autoDraw = False
+76.6651 	EXP 	h: autoDraw = False
+76.6651 	EXP 	j: autoDraw = False
+76.6651 	EXP 	k: autoDraw = False
+76.6651 	EXP 	l: autoDraw = False
+76.6651 	EXP 	text: autoDraw = False
+76.6651 	EXP 	accuracy_text: autoDraw = False
+77.1670 	EXP 	Sound sound_1 stopped
+77.1682 	EXP 	New trial (rep=27, index=0): None
+77.1818 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+77.1818 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+77.1818 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+77.1818 	EXP 	k: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+77.1818 	EXP 	l: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+77.1818 	EXP 	accuracy_text: height = 0.05
+77.1818 	EXP 	accuracy_text: height = 0.05
+77.1818 	EXP 	accuracy_text: height = 0.05
+77.1818 	EXP 	accuracy_text: text = 'Your Accuracy \n25/27'
+77.1818 	EXP 	space: autoDraw = True
+77.1818 	EXP 	h: autoDraw = True
+77.1818 	EXP 	j: autoDraw = True
+77.1818 	EXP 	k: autoDraw = True
+77.1818 	EXP 	l: autoDraw = True
+77.1818 	EXP 	text: autoDraw = True
+77.1818 	EXP 	accuracy_text: autoDraw = True
+77.8444 	DATA 	Keypress: l
+77.8862 	DATA 	Keypress: k
+77.9234 	EXP 	Sound sound_1 started
+77.9235 	EXP 	space: autoDraw = False
+77.9235 	EXP 	h: autoDraw = False
+77.9235 	EXP 	j: autoDraw = False
+77.9235 	EXP 	k: autoDraw = False
+77.9235 	EXP 	l: autoDraw = False
+77.9235 	EXP 	text: autoDraw = False
+77.9235 	EXP 	accuracy_text: autoDraw = False
+78.4270 	EXP 	Sound sound_1 stopped
+78.4283 	EXP 	New trial (rep=28, index=0): None
+78.4402 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+78.4402 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+78.4402 	EXP 	j: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+78.4402 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+78.4402 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+78.4402 	EXP 	accuracy_text: height = 0.05
+78.4402 	EXP 	accuracy_text: height = 0.05
+78.4402 	EXP 	accuracy_text: height = 0.05
+78.4402 	EXP 	accuracy_text: text = 'Your Accuracy \n26/28'
+78.4402 	EXP 	space: autoDraw = True
+78.4402 	EXP 	h: autoDraw = True
+78.4402 	EXP 	j: autoDraw = True
+78.4402 	EXP 	k: autoDraw = True
+78.4402 	EXP 	l: autoDraw = True
+78.4402 	EXP 	text: autoDraw = True
+78.4402 	EXP 	accuracy_text: autoDraw = True
+78.9194 	DATA 	Keypress: space
+79.8448 	DATA 	Keypress: j
+79.8902 	EXP 	Sound sound_1 started
+79.8987 	EXP 	space: autoDraw = False
+79.8987 	EXP 	h: autoDraw = False
+79.8987 	EXP 	j: autoDraw = False
+79.8987 	EXP 	k: autoDraw = False
+79.8987 	EXP 	l: autoDraw = False
+79.8987 	EXP 	text: autoDraw = False
+79.8987 	EXP 	accuracy_text: autoDraw = False
+80.3972 	EXP 	Sound sound_1 stopped
+80.3985 	EXP 	New trial (rep=29, index=0): None
+80.4155 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+80.4155 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+80.4155 	EXP 	j: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+80.4155 	EXP 	k: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+80.4155 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+80.4155 	EXP 	accuracy_text: height = 0.05
+80.4155 	EXP 	accuracy_text: height = 0.05
+80.4155 	EXP 	accuracy_text: height = 0.05
+80.4155 	EXP 	accuracy_text: text = 'Your Accuracy \n26/29'
+80.4155 	EXP 	space: autoDraw = True
+80.4155 	EXP 	h: autoDraw = True
+80.4155 	EXP 	j: autoDraw = True
+80.4155 	EXP 	k: autoDraw = True
+80.4155 	EXP 	l: autoDraw = True
+80.4155 	EXP 	text: autoDraw = True
+80.4155 	EXP 	accuracy_text: autoDraw = True
+81.1030 	DATA 	Keypress: j
+81.1056 	DATA 	Keypress: k
+81.1821 	EXP 	Sound sound_1 started
+81.1822 	EXP 	space: autoDraw = False
+81.1822 	EXP 	h: autoDraw = False
+81.1822 	EXP 	j: autoDraw = False
+81.1822 	EXP 	k: autoDraw = False
+81.1822 	EXP 	l: autoDraw = False
+81.1822 	EXP 	text: autoDraw = False
+81.1822 	EXP 	accuracy_text: autoDraw = False
+81.6871 	EXP 	Sound sound_1 stopped
+81.6883 	EXP 	New trial (rep=30, index=0): None
+81.6990 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+81.6990 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+81.6990 	EXP 	j: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+81.6990 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+81.6990 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+81.6990 	EXP 	accuracy_text: height = 0.05
+81.6990 	EXP 	accuracy_text: height = 0.05
+81.6990 	EXP 	accuracy_text: height = 0.05
+81.6990 	EXP 	accuracy_text: text = 'Your Accuracy \n27/30'
+81.6990 	EXP 	space: autoDraw = True
+81.6990 	EXP 	h: autoDraw = True
+81.6990 	EXP 	j: autoDraw = True
+81.6990 	EXP 	k: autoDraw = True
+81.6990 	EXP 	l: autoDraw = True
+81.6990 	EXP 	text: autoDraw = True
+81.6990 	EXP 	accuracy_text: autoDraw = True
+82.5866 	DATA 	Keypress: h
+83.0617 	DATA 	Keypress: j
+83.1489 	EXP 	Sound sound_1 started
+83.1491 	EXP 	space: autoDraw = False
+83.1491 	EXP 	h: autoDraw = False
+83.1491 	EXP 	j: autoDraw = False
+83.1491 	EXP 	k: autoDraw = False
+83.1491 	EXP 	l: autoDraw = False
+83.1491 	EXP 	text: autoDraw = False
+83.1491 	EXP 	accuracy_text: autoDraw = False
+83.6572 	EXP 	Sound sound_1 stopped
+83.6585 	EXP 	New trial (rep=31, index=0): None
+83.6741 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+83.6741 	EXP 	h: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+83.6741 	EXP 	j: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+83.6741 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+83.6741 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+83.6741 	EXP 	accuracy_text: height = 0.05
+83.6741 	EXP 	accuracy_text: height = 0.05
+83.6741 	EXP 	accuracy_text: height = 0.05
+83.6741 	EXP 	accuracy_text: text = 'Your Accuracy \n27/31'
+83.6741 	EXP 	space: autoDraw = True
+83.6741 	EXP 	h: autoDraw = True
+83.6741 	EXP 	j: autoDraw = True
+83.6741 	EXP 	k: autoDraw = True
+83.6741 	EXP 	l: autoDraw = True
+83.6741 	EXP 	text: autoDraw = True
+83.6741 	EXP 	accuracy_text: autoDraw = True
+84.5703 	DATA 	Keypress: h
+84.5730 	DATA 	Keypress: j
+84.6491 	EXP 	Sound sound_1 started
+84.6492 	EXP 	space: autoDraw = False
+84.6492 	EXP 	h: autoDraw = False
+84.6492 	EXP 	j: autoDraw = False
+84.6492 	EXP 	k: autoDraw = False
+84.6492 	EXP 	l: autoDraw = False
+84.6492 	EXP 	text: autoDraw = False
+84.6492 	EXP 	accuracy_text: autoDraw = False
+85.1573 	EXP 	Sound sound_1 stopped
+85.1585 	EXP 	New trial (rep=32, index=0): None
+85.1743 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+85.1743 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+85.1743 	EXP 	j: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+85.1743 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+85.1743 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+85.1743 	EXP 	accuracy_text: height = 0.05
+85.1743 	EXP 	accuracy_text: height = 0.05
+85.1743 	EXP 	accuracy_text: height = 0.05
+85.1743 	EXP 	accuracy_text: text = 'Your Accuracy \n28/32'
+85.1743 	EXP 	space: autoDraw = True
+85.1743 	EXP 	h: autoDraw = True
+85.1743 	EXP 	j: autoDraw = True
+85.1743 	EXP 	k: autoDraw = True
+85.1743 	EXP 	l: autoDraw = True
+85.1743 	EXP 	text: autoDraw = True
+85.1743 	EXP 	accuracy_text: autoDraw = True
+85.6537 	DATA 	Keypress: j
+85.7326 	EXP 	Sound sound_1 started
+85.7327 	EXP 	space: autoDraw = False
+85.7327 	EXP 	h: autoDraw = False
+85.7327 	EXP 	j: autoDraw = False
+85.7327 	EXP 	k: autoDraw = False
+85.7327 	EXP 	l: autoDraw = False
+85.7327 	EXP 	text: autoDraw = False
+85.7327 	EXP 	accuracy_text: autoDraw = False
+86.2368 	EXP 	Sound sound_1 stopped
+86.2380 	EXP 	New trial (rep=33, index=0): None
+86.2494 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+86.2494 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+86.2494 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+86.2494 	EXP 	k: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+86.2494 	EXP 	l: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+86.2494 	EXP 	accuracy_text: height = 0.05
+86.2494 	EXP 	accuracy_text: height = 0.05
+86.2494 	EXP 	accuracy_text: height = 0.05
+86.2494 	EXP 	accuracy_text: text = 'Your Accuracy \n29/33'
+86.2494 	EXP 	space: autoDraw = True
+86.2494 	EXP 	h: autoDraw = True
+86.2494 	EXP 	j: autoDraw = True
+86.2494 	EXP 	k: autoDraw = True
+86.2494 	EXP 	l: autoDraw = True
+86.2494 	EXP 	text: autoDraw = True
+86.2494 	EXP 	accuracy_text: autoDraw = True
+86.9622 	DATA 	Keypress: k
+87.2121 	DATA 	Keypress: l
+87.2910 	EXP 	Sound sound_1 started
+87.2912 	EXP 	space: autoDraw = False
+87.2912 	EXP 	h: autoDraw = False
+87.2912 	EXP 	j: autoDraw = False
+87.2912 	EXP 	k: autoDraw = False
+87.2912 	EXP 	l: autoDraw = False
+87.2912 	EXP 	text: autoDraw = False
+87.2912 	EXP 	accuracy_text: autoDraw = False
+87.7969 	EXP 	Sound sound_1 stopped
+87.7981 	EXP 	New trial (rep=34, index=0): None
+87.8163 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+87.8163 	EXP 	h: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+87.8163 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+87.8163 	EXP 	k: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+87.8163 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+87.8163 	EXP 	accuracy_text: height = 0.05
+87.8163 	EXP 	accuracy_text: height = 0.05
+87.8163 	EXP 	accuracy_text: height = 0.05
+87.8163 	EXP 	accuracy_text: text = 'Your Accuracy \n29/34'
+87.8163 	EXP 	space: autoDraw = True
+87.8163 	EXP 	h: autoDraw = True
+87.8163 	EXP 	j: autoDraw = True
+87.8163 	EXP 	k: autoDraw = True
+87.8163 	EXP 	l: autoDraw = True
+87.8163 	EXP 	text: autoDraw = True
+87.8163 	EXP 	accuracy_text: autoDraw = True
+88.5289 	DATA 	Keypress: space
+88.6070 	DATA 	Keypress: k
+89.0456 	DATA 	Keypress: j
+89.0912 	EXP 	Sound sound_1 started
+89.0914 	EXP 	space: autoDraw = False
+89.0914 	EXP 	h: autoDraw = False
+89.0914 	EXP 	j: autoDraw = False
+89.0914 	EXP 	k: autoDraw = False
+89.0914 	EXP 	l: autoDraw = False
+89.0914 	EXP 	text: autoDraw = False
+89.0914 	EXP 	accuracy_text: autoDraw = False
+89.5973 	EXP 	Sound sound_1 stopped
+89.5985 	EXP 	New trial (rep=35, index=0): None
+89.6165 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+89.6165 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+89.6165 	EXP 	j: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+89.6165 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+89.6165 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+89.6165 	EXP 	accuracy_text: height = 0.05
+89.6165 	EXP 	accuracy_text: height = 0.05
+89.6165 	EXP 	accuracy_text: height = 0.05
+89.6165 	EXP 	accuracy_text: text = 'Your Accuracy \n29/35'
+89.6165 	EXP 	space: autoDraw = True
+89.6165 	EXP 	h: autoDraw = True
+89.6165 	EXP 	j: autoDraw = True
+89.6165 	EXP 	k: autoDraw = True
+89.6165 	EXP 	l: autoDraw = True
+89.6165 	EXP 	text: autoDraw = True
+89.6165 	EXP 	accuracy_text: autoDraw = True
+92.4293 	DATA 	Keypress: j
+92.5166 	EXP 	Sound sound_1 started
+92.5168 	EXP 	space: autoDraw = False
+92.5168 	EXP 	h: autoDraw = False
+92.5168 	EXP 	j: autoDraw = False
+92.5168 	EXP 	k: autoDraw = False
+92.5168 	EXP 	l: autoDraw = False
+92.5168 	EXP 	text: autoDraw = False
+92.5168 	EXP 	accuracy_text: autoDraw = False
+93.0266 	EXP 	Sound sound_1 stopped
+93.0278 	EXP 	New trial (rep=36, index=0): None
+93.0419 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+93.0419 	EXP 	h: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+93.0419 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+93.0419 	EXP 	k: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+93.0419 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+93.0419 	EXP 	accuracy_text: height = 0.05
+93.0419 	EXP 	accuracy_text: height = 0.05
+93.0419 	EXP 	accuracy_text: height = 0.05
+93.0419 	EXP 	accuracy_text: text = 'Your Accuracy \n30/36'
+93.0419 	EXP 	space: autoDraw = True
+93.0419 	EXP 	h: autoDraw = True
+93.0419 	EXP 	j: autoDraw = True
+93.0419 	EXP 	k: autoDraw = True
+93.0419 	EXP 	l: autoDraw = True
+93.0419 	EXP 	text: autoDraw = True
+93.0419 	EXP 	accuracy_text: autoDraw = True
+93.6045 	DATA 	Keypress: h
+97.0466 	DATA 	Keypress: k
+97.1254 	EXP 	Sound sound_1 started
+97.1256 	EXP 	space: autoDraw = False
+97.1256 	EXP 	h: autoDraw = False
+97.1256 	EXP 	j: autoDraw = False
+97.1256 	EXP 	k: autoDraw = False
+97.1256 	EXP 	l: autoDraw = False
+97.1256 	EXP 	text: autoDraw = False
+97.1256 	EXP 	accuracy_text: autoDraw = False
+97.6368 	EXP 	Sound sound_1 stopped
+97.6379 	EXP 	New trial (rep=37, index=0): None
+97.6507 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+97.6507 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+97.6507 	EXP 	j: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+97.6507 	EXP 	k: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+97.6507 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+97.6507 	EXP 	accuracy_text: height = 0.05
+97.6507 	EXP 	accuracy_text: height = 0.05
+97.6507 	EXP 	accuracy_text: height = 0.05
+97.6507 	EXP 	accuracy_text: text = 'Your Accuracy \n30/37'
+97.6507 	EXP 	space: autoDraw = True
+97.6507 	EXP 	h: autoDraw = True
+97.6507 	EXP 	j: autoDraw = True
+97.6507 	EXP 	k: autoDraw = True
+97.6507 	EXP 	l: autoDraw = True
+97.6507 	EXP 	text: autoDraw = True
+97.6507 	EXP 	accuracy_text: autoDraw = True
+98.4133 	DATA 	Keypress: j
+98.5006 	EXP 	Sound sound_1 started
+98.5007 	EXP 	space: autoDraw = False
+98.5007 	EXP 	h: autoDraw = False
+98.5007 	EXP 	j: autoDraw = False
+98.5007 	EXP 	k: autoDraw = False
+98.5007 	EXP 	l: autoDraw = False
+98.5007 	EXP 	text: autoDraw = False
+98.5007 	EXP 	accuracy_text: autoDraw = False
+99.0068 	EXP 	Sound sound_1 stopped
+99.0081 	EXP 	New trial (rep=38, index=0): None
+99.0258 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+99.0258 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+99.0258 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+99.0258 	EXP 	k: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+99.0258 	EXP 	l: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+99.0258 	EXP 	accuracy_text: height = 0.05
+99.0258 	EXP 	accuracy_text: height = 0.05
+99.0258 	EXP 	accuracy_text: height = 0.05
+99.0258 	EXP 	accuracy_text: text = 'Your Accuracy \n31/38'
+99.0258 	EXP 	space: autoDraw = True
+99.0258 	EXP 	h: autoDraw = True
+99.0258 	EXP 	j: autoDraw = True
+99.0258 	EXP 	k: autoDraw = True
+99.0258 	EXP 	l: autoDraw = True
+99.0258 	EXP 	text: autoDraw = True
+99.0258 	EXP 	accuracy_text: autoDraw = True
+99.9216 	DATA 	Keypress: l
+99.9469 	DATA 	Keypress: k
+100.0007 	EXP 	Sound sound_1 started
+100.0009 	EXP 	space: autoDraw = False
+100.0009 	EXP 	h: autoDraw = False
+100.0009 	EXP 	j: autoDraw = False
+100.0009 	EXP 	k: autoDraw = False
+100.0009 	EXP 	l: autoDraw = False
+100.0009 	EXP 	text: autoDraw = False
+100.0009 	EXP 	accuracy_text: autoDraw = False
+100.5066 	EXP 	Sound sound_1 stopped
+100.5078 	EXP 	New trial (rep=39, index=0): None
+100.5260 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+100.5260 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+100.5260 	EXP 	j: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+100.5260 	EXP 	k: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+100.5260 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+100.5260 	EXP 	accuracy_text: height = 0.05
+100.5260 	EXP 	accuracy_text: height = 0.05
+100.5260 	EXP 	accuracy_text: height = 0.05
+100.5260 	EXP 	accuracy_text: text = 'Your Accuracy \n32/39'
+100.5260 	EXP 	space: autoDraw = True
+100.5260 	EXP 	h: autoDraw = True
+100.5260 	EXP 	j: autoDraw = True
+100.5260 	EXP 	k: autoDraw = True
+100.5260 	EXP 	l: autoDraw = True
+100.5260 	EXP 	text: autoDraw = True
+100.5260 	EXP 	accuracy_text: autoDraw = True
+101.0719 	DATA 	Keypress: k
+101.5556 	DATA 	Keypress: j
+101.5722 	DATA 	Keypress: k
+101.5926 	EXP 	Sound sound_1 started
+101.6011 	EXP 	space: autoDraw = False
+101.6011 	EXP 	h: autoDraw = False
+101.6011 	EXP 	j: autoDraw = False
+101.6011 	EXP 	k: autoDraw = False
+101.6011 	EXP 	l: autoDraw = False
+101.6011 	EXP 	text: autoDraw = False
+101.6011 	EXP 	accuracy_text: autoDraw = False
+102.0971 	EXP 	Sound sound_1 stopped
+102.0984 	EXP 	New trial (rep=40, index=0): None
+102.1094 	EXP 	space: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+102.1094 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+102.1094 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+102.1094 	EXP 	k: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+102.1094 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+102.1094 	EXP 	accuracy_text: height = 0.05
+102.1094 	EXP 	accuracy_text: height = 0.05
+102.1094 	EXP 	accuracy_text: height = 0.05
+102.1094 	EXP 	accuracy_text: text = 'Your Accuracy \n32/40'
+102.1094 	EXP 	space: autoDraw = True
+102.1094 	EXP 	h: autoDraw = True
+102.1094 	EXP 	j: autoDraw = True
+102.1094 	EXP 	k: autoDraw = True
+102.1094 	EXP 	l: autoDraw = True
+102.1094 	EXP 	text: autoDraw = True
+102.1094 	EXP 	accuracy_text: autoDraw = True
+102.9056 	DATA 	Keypress: k
+102.9088 	DATA 	Keypress: space
+102.9844 	EXP 	Sound sound_1 started
+102.9846 	EXP 	space: autoDraw = False
+102.9846 	EXP 	h: autoDraw = False
+102.9846 	EXP 	j: autoDraw = False
+102.9846 	EXP 	k: autoDraw = False
+102.9846 	EXP 	l: autoDraw = False
+102.9846 	EXP 	text: autoDraw = False
+102.9846 	EXP 	accuracy_text: autoDraw = False
+103.4869 	EXP 	Sound sound_1 stopped
+103.4881 	EXP 	New trial (rep=41, index=0): None
+103.5013 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+103.5013 	EXP 	h: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+103.5013 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+103.5013 	EXP 	k: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+103.5013 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+103.5013 	EXP 	accuracy_text: height = 0.05
+103.5013 	EXP 	accuracy_text: height = 0.05
+103.5013 	EXP 	accuracy_text: height = 0.05
+103.5013 	EXP 	accuracy_text: text = 'Your Accuracy \n33/41'
+103.5013 	EXP 	space: autoDraw = True
+103.5013 	EXP 	h: autoDraw = True
+103.5013 	EXP 	j: autoDraw = True
+103.5013 	EXP 	k: autoDraw = True
+103.5013 	EXP 	l: autoDraw = True
+103.5013 	EXP 	text: autoDraw = True
+103.5013 	EXP 	accuracy_text: autoDraw = True
+104.7889 	DATA 	Keypress: h
+104.8057 	DATA 	Keypress: k
+104.8763 	EXP 	Sound sound_1 started
+104.8765 	EXP 	space: autoDraw = False
+104.8765 	EXP 	h: autoDraw = False
+104.8765 	EXP 	j: autoDraw = False
+104.8765 	EXP 	k: autoDraw = False
+104.8765 	EXP 	l: autoDraw = False
+104.8765 	EXP 	text: autoDraw = False
+104.8765 	EXP 	accuracy_text: autoDraw = False
+105.3863 	EXP 	Sound sound_1 stopped
+105.3876 	EXP 	New trial (rep=42, index=0): None
+105.4015 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+105.4015 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+105.4015 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+105.4015 	EXP 	k: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+105.4015 	EXP 	l: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+105.4015 	EXP 	accuracy_text: height = 0.05
+105.4015 	EXP 	accuracy_text: height = 0.05
+105.4015 	EXP 	accuracy_text: height = 0.05
+105.4015 	EXP 	accuracy_text: text = 'Your Accuracy \n34/42'
+105.4015 	EXP 	space: autoDraw = True
+105.4015 	EXP 	h: autoDraw = True
+105.4015 	EXP 	j: autoDraw = True
+105.4015 	EXP 	k: autoDraw = True
+105.4015 	EXP 	l: autoDraw = True
+105.4015 	EXP 	text: autoDraw = True
+105.4015 	EXP 	accuracy_text: autoDraw = True
+106.1059 	DATA 	Keypress: l
+106.1309 	DATA 	Keypress: k
+106.1848 	EXP 	Sound sound_1 started
+106.1849 	EXP 	space: autoDraw = False
+106.1849 	EXP 	h: autoDraw = False
+106.1849 	EXP 	j: autoDraw = False
+106.1849 	EXP 	k: autoDraw = False
+106.1849 	EXP 	l: autoDraw = False
+106.1849 	EXP 	text: autoDraw = False
+106.1849 	EXP 	accuracy_text: autoDraw = False
+106.6963 	EXP 	Sound sound_1 stopped
+106.6975 	EXP 	New trial (rep=43, index=0): None
+106.7100 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+106.7100 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+106.7100 	EXP 	j: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+106.7100 	EXP 	k: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+106.7100 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+106.7100 	EXP 	accuracy_text: height = 0.05
+106.7100 	EXP 	accuracy_text: height = 0.05
+106.7100 	EXP 	accuracy_text: height = 0.05
+106.7100 	EXP 	accuracy_text: text = 'Your Accuracy \n35/43'
+106.7100 	EXP 	space: autoDraw = True
+106.7100 	EXP 	h: autoDraw = True
+106.7100 	EXP 	j: autoDraw = True
+106.7100 	EXP 	k: autoDraw = True
+106.7100 	EXP 	l: autoDraw = True
+106.7100 	EXP 	text: autoDraw = True
+106.7100 	EXP 	accuracy_text: autoDraw = True
+107.3809 	DATA 	Keypress: j
+107.3842 	DATA 	Keypress: k
+107.4599 	EXP 	Sound sound_1 started
+107.4601 	EXP 	space: autoDraw = False
+107.4601 	EXP 	h: autoDraw = False
+107.4601 	EXP 	j: autoDraw = False
+107.4601 	EXP 	k: autoDraw = False
+107.4601 	EXP 	l: autoDraw = False
+107.4601 	EXP 	text: autoDraw = False
+107.4601 	EXP 	accuracy_text: autoDraw = False
+107.9662 	EXP 	Sound sound_1 stopped
+107.9674 	EXP 	New trial (rep=44, index=0): None
+107.9851 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+107.9851 	EXP 	h: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+107.9851 	EXP 	j: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+107.9851 	EXP 	k: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+107.9851 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+107.9851 	EXP 	accuracy_text: height = 0.05
+107.9851 	EXP 	accuracy_text: height = 0.05
+107.9851 	EXP 	accuracy_text: height = 0.05
+107.9851 	EXP 	accuracy_text: text = 'Your Accuracy \n36/44'
+107.9851 	EXP 	space: autoDraw = True
+107.9851 	EXP 	h: autoDraw = True
+107.9851 	EXP 	j: autoDraw = True
+107.9851 	EXP 	k: autoDraw = True
+107.9851 	EXP 	l: autoDraw = True
+107.9851 	EXP 	text: autoDraw = True
+107.9851 	EXP 	accuracy_text: autoDraw = True
+108.6728 	DATA 	Keypress: h
+108.7423 	DATA 	Keypress: k
+108.7812 	DATA 	Keypress: space
+108.8100 	EXP 	Sound sound_1 started
+108.8102 	EXP 	space: autoDraw = False
+108.8102 	EXP 	h: autoDraw = False
+108.8102 	EXP 	j: autoDraw = False
+108.8102 	EXP 	k: autoDraw = False
+108.8102 	EXP 	l: autoDraw = False
+108.8102 	EXP 	text: autoDraw = False
+108.8102 	EXP 	accuracy_text: autoDraw = False
+109.3164 	EXP 	Sound sound_1 stopped
+109.3176 	EXP 	New trial (rep=45, index=0): None
+109.3353 	EXP 	space: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+109.3353 	EXP 	h: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+109.3353 	EXP 	j: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+109.3353 	EXP 	k: borderColor = <psychopy.colors.Color: (-1.0, -0.22, -1.0, 1.0)>
+109.3353 	EXP 	l: borderColor = <psychopy.colors.Color: (-0.76, 0.13, 1.0, 1.0)>
+109.3353 	EXP 	accuracy_text: height = 0.05
+109.3353 	EXP 	accuracy_text: height = 0.05
+109.3353 	EXP 	accuracy_text: height = 0.05
+109.3353 	EXP 	accuracy_text: text = 'Your Accuracy \n36/45'
+109.3353 	EXP 	space: autoDraw = True
+109.3353 	EXP 	h: autoDraw = True
+109.3353 	EXP 	j: autoDraw = True
+109.3353 	EXP 	k: autoDraw = True
+109.3353 	EXP 	l: autoDraw = True
+109.3353 	EXP 	text: autoDraw = True
+109.3353 	EXP 	accuracy_text: autoDraw = True
+109.3645 	DATA 	Keypress: escape
+109.4774 	EXP 	eb_music: status = STOPPED
+109.4853 	EXP 	space: autoDraw = False
+109.4853 	EXP 	h: autoDraw = False
+109.4853 	EXP 	j: autoDraw = False
+109.4853 	EXP 	k: autoDraw = False
+109.4853 	EXP 	l: autoDraw = False
+109.4853 	EXP 	text: autoDraw = False
+109.4853 	EXP 	accuracy_text: autoDraw = False
+109.4853 	EXP 	eb_music: status = STOPPED
+109.6214 	EXP 	window1: mouseVisible = True
